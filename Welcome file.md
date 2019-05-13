@@ -77,7 +77,7 @@ As you can see, there are two new files, 0001_initial.py and db.sqlite3.
  
  - db.sqlite3 is the brand new database created by the blueprint.
 
- we use SQLite3 as our database by dd    
+ We use SQLite3 as our database by default. Of course, you can use other database you want, and your database setting is at *< root_dir>/ djangorest_example/setting.py* .      
 
 
 
@@ -212,8 +212,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzI5OTE0NCwxOTIzNTgzNTY2LDEzMj
-UwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1
-OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF
-19
+eyJoaXN0b3J5IjpbLTE1Nzg2NDM4NjIsMTkyMzU4MzU2NiwxMz
+I1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2
+NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NT
+hdfQ==
 -->
