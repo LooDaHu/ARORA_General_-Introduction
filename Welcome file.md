@@ -56,7 +56,7 @@ A((example1)) -- - --> J(urls.py)
 ```
 Note:
  1. The file structure of the application should like this figure. And please remeber those 		   files are vital for the application, and do not delete them casually, except other migration files.
- 2. There are   
+ 2. There are 
 
 	
 
@@ -195,5 +195,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbMjAzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNz
+U3NTYxNTU4XX0=
 -->
