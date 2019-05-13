@@ -119,7 +119,8 @@ Let's start with our code.
 
 SERIALIZERS.PY
 
-##
+## views.py 
+Now, we are doing the core of a application. views.py determine how you RESTful server response the reques
 
 
 
@@ -258,8 +259,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzMzQ0MzYyLDE4NjQ2NjA2NzQsMTkyMz
-U4MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5
-NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LD
-E3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTQ5MDM1NjE0NiwxODY0NjYwNjc0LDE5Mj
+M1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMDg0MzkxLDE3MTAwMjAx
+OTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMTcyNTU0NzU1OS
+wxNzU3NTYxNTU4XX0=
 -->
