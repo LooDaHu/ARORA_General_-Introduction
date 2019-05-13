@@ -156,7 +156,7 @@ Click here to ADMIN.PY
 
 ## Summary 
 
-Here are processing figure to show how it works.
+ - Here are processing figure to show how it works.
 
 GET 
 ```mermaid
@@ -191,9 +191,10 @@ views.py -- . --> models.py
 models.py -- find the ojbect --> Database
 Database -- result back success/failure --> views.py
 views.py --. --> response
-
-BUi
 ```
+
+
+Build proper model is the first key step to create a good application.
 
 
 
@@ -335,9 +336,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1OTUxNTUsLTk2NzM2MzM2LDI4NDA2NT
-czNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3LDE4
-NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMjAwOD
-QzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1
-LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTE0OTAwNDc1MTYsLTk2NzM2MzM2LDI4ND
+A2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3
+LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMj
+AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
+NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
