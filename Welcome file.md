@@ -154,6 +154,24 @@ We alomost done. But we want our admin site knows we have a new application. So,
 Click here to ADMIN.PY
 
 
+## Summary 
+```mrmaid
+
+```
+```mermaid
+sequenceDiagram
+Alice ->> Bob: Hello Bob, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+```
+
+
+
 
     
 
@@ -291,9 +309,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0OD
-EwMjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2
-LDEzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xND
-cxMjY1OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2
-MTU1OF19
+eyJoaXN0b3J5IjpbLTkyOTIzNjE1OSwyODQwNjU3MzYsLTM5Mz
+k5NDczMCw4NDQ4MTAyMDIsLTQ2NzQyNTI2NywxODY0NjYwNjc0
+LDE5MjM1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMDg0MzkxLDE3MT
+AwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMTcyNTU0
+NzU1OSwxNzU3NTYxNTU4XX0=
 -->
