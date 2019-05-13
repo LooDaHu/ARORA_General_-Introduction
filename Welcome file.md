@@ -96,7 +96,21 @@ But we haven't done yet. Let's do
 After you see a series of OK, our model part is done.
 
 ## Serializers.py
-Serializers is a 
+
+> Serializers allow complex data such as querysets and model instances
+> to be converted to native Python datatypes that can then be easily
+> rendered into  `JSON`,  `XML`  or other content types. Serializers
+> also provide deserialization, allowing parsed data to be converted
+> back into complex types, after first validating the incoming data.
+> 
+> The serializers in REST framework work very similarly to Django's 
+> `Form`  and  `ModelForm`  classes. We provide a  `Serializer`class
+> which gives you a powerful, generic way to control the output of your
+> responses, as well as a  `ModelSerializer`  class which provides a
+> useful shortcut for creating serializers that deal with model
+> instances and querysets.
+> 
+> From Django REST Framework 
 
 
     
@@ -234,8 +248,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc4NDY1MzEsMTkyMzU4MzU2NiwxMz
-I1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2
-NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NT
-hdfQ==
+eyJoaXN0b3J5IjpbLTE2ODg2NjcxMCwxOTIzNTgzNTY2LDEzMj
+UwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1
+OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF
+19
 -->
