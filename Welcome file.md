@@ -38,6 +38,8 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 After we have done the set-up, the whole project should look like this.
 ![enter image description here](https://lh3.googleusercontent.com/CAbsN_SgS47Dvu1yrGXq6M68HYC0CsG8ET-WWknex3Qeukezihxp_NPHA59Mxm6B2GSCYJ0vRrY) 
 And don't forget create serializers.py and urls.py manually under every application.
+
+Now, 
 Let's take example1, one of our created application, as an example.
 
 ```mermaid
@@ -51,9 +53,8 @@ A((example1)) -- - --> G(models.py)
 A((example1)) -- - --> H(view.py)
 A((example1)) -- - --> I(serializers.py)
 A((example1)) -- - --> J(urls.py)
- 
-
 ```
+The file structure of the application 
 	
 
 ## Create files and folders
@@ -191,5 +192,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkzNTYwMTYsMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbMTM5NDMwNDU2LDE3NTc1NjE1NThdfQ==
 -->
