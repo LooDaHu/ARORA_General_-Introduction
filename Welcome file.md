@@ -19,7 +19,10 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 	> python3 manage.py startapp example1
 	> python3 manage.py startapp example2
 
-5. You have example1 and example2 at INSTALLED_APPS list. 
+5. You have example1 and example2 at **INSTALLED_APPS** list. 
+
+    enter code here
+
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -155,5 +158,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDY1OTI2NV19
+eyJoaXN0b3J5IjpbMTc1NzU2MTU1OF19
 -->
