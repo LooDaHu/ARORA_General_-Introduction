@@ -96,6 +96,8 @@ But we haven't done yet. Let's do
 
 After you see a series of OK, our model part is done.
 
+Note: If you have as
+
 ## Serializers.py
 
 Now we need a tool that can transform our data between model and JSON format.
@@ -134,7 +136,10 @@ Though we have done the core part of our application, but there is still no rout
 URLS.PY
 
 ## admin.py
-We alomost done. But we want our admin site knows we have a new application. 
+We alomost done. But we want our admin site knows we have a new application. So, we need a register in admin.py.
+
+ADMIN.PY
+
 
 
     
@@ -272,8 +277,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE4NTMzMTgsODQ0ODEwMjAyLC00Nj
-c0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYw
-ODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LD
-IwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbMTM5MTg5MzU5OSw4NDQ4MTAyMDIsLTQ2Nz
+QyNTI2NywxODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4
+MiwxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMj
+AzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
 -->
