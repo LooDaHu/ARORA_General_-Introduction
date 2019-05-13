@@ -222,10 +222,12 @@ If you have any question about the above content, be free to contact me.
 >Github: @LooDaHu
 >WeChat: a651120561
 
-This is just a simple tutorial how to fast set up, if you want to learn more and 
+This is just a simple tutorial how to fast set up, if you want to learn more and deep, please refer [API GUIDE](https://www.django-rest-framework.org/)
+
+Because Django_REST_framework is based on Django, if 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjIxNjQ1MCw5Mjg3MzU5OTgsLTk2Nz
+eyJoaXN0b3J5IjpbMTMzMjk0MTcwMCw5Mjg3MzU5OTgsLTk2Nz
 M2MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwt
 NDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MD
 U2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTky
