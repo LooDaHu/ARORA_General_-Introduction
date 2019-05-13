@@ -34,6 +34,7 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
         'rest_framework',  
        ]
 
+Here is a tutorial for set-up d
 ## FIie structure and explanation
 After we have done the set-up, the whole project should look like this.
 ![enter image description here](https://lh3.googleusercontent.com/CAbsN_SgS47Dvu1yrGXq6M68HYC0CsG8ET-WWknex3Qeukezihxp_NPHA59Mxm6B2GSCYJ0vRrY) 
@@ -55,7 +56,7 @@ A((example1)) -- - --> I(serializers.py *)
 A((example1)) -- - --> J(urls.py *)
 ```
 Note:
- 1. The file structure of the application should like this figure. And please remeber those 		   files are vital for the application, and do not delete them casually, except other migration files. And I 
+ 1. The file structure of the application should like this figure. And please remeber those 		   files are vital for the application, and do not delete them casually, except migration files. And I will explain why migration files as 
  2. There are five files with 
 
 	
@@ -195,6 +196,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODQwNDYwMCwyMDM3MzMzNDY1LC0xNz
-I1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbNTM4OTAwODk2LDIwMzczMzM0NjUsLTE3Mj
+U1NDc1NTksMTc1NzU2MTU1OF19
 -->
