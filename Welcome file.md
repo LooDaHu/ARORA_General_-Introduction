@@ -71,13 +71,13 @@ After we finish our code, then we do
 > python3 manage.py makemigrations 
 
 As you can see, there are two new files, 0001_initial.py and db.sqlite3. 
-	
+	![enter image description here](https://lh3.googleusercontent.com/lIksGDKRFNH-jMQKk02O0J87uAGkRs1XEBNReSGvu6fr2-7cU1WZE1D7coSVRUQvcc6evV9MEK8)
 
  - You can regard 0001_initial.py as the blueprint of the database.
  
  - db.sqlite3 is the brand new database created by the blueprint.
 
-    
+ we use SQLite3 as our database by dd    
 
 
 
@@ -212,7 +212,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMj
-AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
-NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTI4MzI5OTE0NCwxOTIzNTgzNTY2LDEzMj
+UwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1
+OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF
+19
 -->
