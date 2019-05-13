@@ -179,7 +179,17 @@ Database -- result back success/failure --> views.py
 views.py --. --> response
 ```
 
-
+DELETE
+```mermaid
+graph LR
+request -- . --> urls.py
+urls.py -- route to the method --> views.py
+views.py -- . --> models.py
+models.py -- find the ojbect --> Database
+Database -- result back --> serializers.py
+serializers.py -- serialized data/JSON --> views.py
+views.py --. --> response
+```
 
 
 
@@ -321,7 +331,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgwMjIzNCwtOTY3MzYzMzYsMjg0MD
+eyJoaXN0b3J5IjpbLTY1NjM5ODM4OCwtOTY3MzYzMzYsMjg0MD
 Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
 MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
 A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
