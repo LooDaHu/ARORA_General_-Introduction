@@ -154,6 +154,9 @@ We alomost done. But we want our admin site knows we have a new application. So,
 Click here to ADMIN.PY
 
 ## Test
+
+ 1. Let's try create a new Model1 object by using [POSTMAN](https://www.getpostman.com/)
+
  
 
 
@@ -333,9 +336,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTU3MzIzLC05NjczNjMzNiwyODQwNj
-U3MzYsLTM5Mzk5NDczMCw4NDQ4MTAyMDIsLTQ2NzQyNTI2Nywx
-ODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMD
-g0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2
-NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbLTEwMzk0ODg3NDIsLTk2NzM2MzM2LDI4ND
+A2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3
+LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMj
+AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
+NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
