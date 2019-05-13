@@ -193,12 +193,8 @@ Database -- result back success/failure --> views.py
 views.py --. --> response
 ```
 
-
-Build proper model is the first key step to create a good application.
-
-
-
-
+ - Build proper model is the first key step to create a good
+   application.
 
     
 
@@ -336,9 +332,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAwNDc1MTYsLTk2NzM2MzM2LDI4ND
-A2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3
-LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMj
-AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
-NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbMTM1NzgxMjg1NSwtOTY3MzYzMzYsMjg0MD
+Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
+MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
+A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
+NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
 -->
