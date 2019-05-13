@@ -4,7 +4,7 @@ Hi, this is a simple tutorial related to ARORA project. In this tutorial, you wi
 
 
 # Djang-REST-framework
-
+## Setup
 Let's start with Django-rest-framework. Before we get started, please make sure:
 1. You have a python3 on your machine. Though Python is cross-platform, I recommend you use Linux or Linux VM as your operating system.
  
@@ -33,6 +33,8 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
         'example2',  
         'rest_framework',  
        ]
+
+## FIie structure 
 
 ## Create files and folders
 
@@ -169,5 +171,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTYzMjY1MCwxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbLTQxMTU4OTExOSwxNzU3NTYxNTU4XX0=
 -->
