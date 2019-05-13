@@ -15,7 +15,7 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 3. Have created a Django Project properly. If you use Pycharm as your IDE, Things should be easy. If you do not use Pycharm, you can use
 	> django-admin startproject < YOUR_PROJECT_NAME > .    
 
-4. Have started a application, example1.
+4. Have started an application, example1.
 	> python3 manage.py startapp example1
 
 
@@ -60,7 +60,7 @@ Note:
  2. There are five files with STAR notation need us to work on. Let's get into there one by one. 
 
 ## Models.py
-We can create our models at models.py. There can be more than one model in the models.py, which means there can be more than one model in a application.
+We can create our models at models.py. There can be more than one model in the models.py, which means there can be more than one model in an application.
 
 Basically, Django database is based on ORM, this is to say, your database structure is determined by your code in model.py.
 
@@ -259,7 +259,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg0MDQ1NzksMTg2NDY2MDY3NCwxOT
+eyJoaXN0b3J5IjpbLTE4NjM5MjQ3NDksMTg2NDY2MDY3NCwxOT
 IzNTgzNTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIw
 MTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NT
 ksMTc1NzU2MTU1OF19
