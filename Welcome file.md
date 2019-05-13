@@ -163,8 +163,8 @@ urls.py -- route to the method --> views.py
 views.py -- . --> model.py
 model.py -- find the ojbect --> Database
 Database -- result back --> serializers.py
-serializers.py -- . --> views.py
-views.py --.--> response
+serializers.py -- serialized data --> views.py
+views.py --. --> response
 ```
 
 
@@ -309,9 +309,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTA5NzExMiwtOTY3MzYzMzYsMjg0MD
-Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
-MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
-A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
-NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbLTE2MDU2OTgzMjgsLTk2NzM2MzM2LDI4ND
+A2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3
+LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMj
+AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
+NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
