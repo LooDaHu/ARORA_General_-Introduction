@@ -156,20 +156,13 @@ Click here to ADMIN.PY
 
 ## Summary 
 ```mrmaid
-sequenceDiagram
-Request ->> Url.py: Request incoming
-```
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+graph LR
+request()
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
 ```
+
+
+
 
 
 
@@ -310,7 +303,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5Nzk2ODgyLDI4NDA2NTczNiwtMzkzOT
+eyJoaXN0b3J5IjpbMjYxNTQ5OTE0LDI4NDA2NTczNiwtMzkzOT
 k0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3LDE4NjQ2NjA2NzQs
 MTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQzOTEsMTcxMD
 AyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3
