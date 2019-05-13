@@ -155,6 +155,9 @@ Click here to ADMIN.PY
 
 
 ## Summary 
+
+Here are processing figure to show how it works.
+
 GET 
 ```mermaid
 graph LR
@@ -186,9 +189,10 @@ request -- . --> urls.py
 urls.py -- route to the method --> views.py
 views.py -- . --> models.py
 models.py -- find the ojbect --> Database
-Database -- result back --> serializers.py
-serializers.py -- serialized data/JSON --> views.py
+Database -- result back success/failure --> views.py
 views.py --. --> response
+
+BUi
 ```
 
 
@@ -331,9 +335,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjM5ODM4OCwtOTY3MzYzMzYsMjg0MD
-Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
-MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
-A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
-NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbMzM1OTUxNTUsLTk2NzM2MzM2LDI4NDA2NT
+czNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3LDE4
+NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMjAwOD
+QzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1
+LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
