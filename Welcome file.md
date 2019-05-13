@@ -77,16 +77,15 @@ As you can see, there are two new files, 0001_initial.py and db.sqlite3.
  
  - db.sqlite3 is the brand new database created by the blueprint.
  - We use SQLite3 as our database by default. Of course, you can use
-   other database you want, and your database setting is at *<
-   root_dir>/ main_application/setting.py* .  
+   other database you want, and your database setting is at *< root_dir>/ main_application/setting.py* .  
     
    
        DATABASES = {  
-	   	    'default': {  
+		   'default': {  
 	   	        'ENGINE': 'django.db.backends.sqlite3',  
 	   		    'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),   		
-	   		}  
-       }
+			}  
+	    }
 
     
 
@@ -223,7 +222,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI2NTE4MjMsMTkyMzU4MzU2NiwxMz
+eyJoaXN0b3J5IjpbLTIwMzY1OTc4MTksMTkyMzU4MzU2NiwxMz
 I1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2
 NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NT
 hdfQ==
