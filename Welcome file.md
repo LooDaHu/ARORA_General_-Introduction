@@ -13,7 +13,9 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 	> pip(pipenv) install djangorestframework
 
 3. Have created a Django Project properly. If you use Pycharm as your IDE, Things should be easy. If you do not use Pycharm, you can use
-> django 
+> django-admin startproject < YOUR_PROJECT_NAME > .    
+
+ 
 
 5. 
 ## Create files and folders
@@ -151,5 +153,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYxODQwMzNdfQ==
+eyJoaXN0b3J5IjpbLTM3NDg0NzczXX0=
 -->
