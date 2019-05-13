@@ -159,8 +159,10 @@ Click here to ADMIN.PY
 2. Oops, someting is wrong here, it shows model2_id : object does not exist, which means our Model1Serializer works well at this point. Due to model2 _id is a foreign key of model1 and related to table Model2.
 ![enter image description here](https://lh3.googleusercontent.com/L6j0qq2pbNddCVhezB7x2lAUAtw-x91rZVeNAxpVcF3yL61yC7f3QZ4kIupze3QNqI_GcGoD1uc)
  
+3. Let's create a new Model2 object by admin site. And try it again.
+![enter image description here](https://lh3.googleusercontent.com/QLGA7_LmeEvw9uFEVNF_bcGuVM3ITVd2wNjXiVAdB3QFdchWlPdRq9bpYck3Wwh1LayhGq1ThLA)
 
-
+4. It seems work 
 ## Summary 
 
  - Here are processing figure to show how it works.
@@ -337,7 +339,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDQxMDI1MCwtOTY3MzYzMzYsMjg0MD
+eyJoaXN0b3J5IjpbLTk2NDA4Nzg2MSwtOTY3MzYzMzYsMjg0MD
 Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
 MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
 A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
