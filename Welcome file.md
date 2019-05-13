@@ -7,7 +7,10 @@ Hi, this is a simple tutorial related to ARORA project. In this tutorial, you wi
 
 Let's start with Django-rest-framework. Before we get started, please make sure:
 1. You have a python3 on your machine. Though Python is cross-platform, I recommend you use Linux or Linux VM as your operating system.
-2. make sure
+ 
+2. You have installed Django and Django-rest-framework on your python. d
+
+3. 
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -143,5 +146,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNDY2NTU2XX0=
+eyJoaXN0b3J5IjpbLTExNzMzMzcwMjhdfQ==
 -->
