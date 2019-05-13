@@ -89,8 +89,10 @@ As you can see, there are two new files, 0001_initial.py and db.sqlite3.
 
 
 But we haven't done yet. Let's do
+> python3 manage.py migrate
 > 
-
+![enter image description here](https://lh3.googleusercontent.com/srsTro62EmaJIp_5lbypVXpdrGXBVOY8atZSbOSR--7PpPekXmRQ7Vj9Pd1GYt8_18DC3NnG6Q4)
+After you see a series of OK, our database is done
     
 
 
@@ -226,7 +228,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTg0MDIzMywxOTIzNTgzNTY2LDEzMj
+eyJoaXN0b3J5IjpbMTczNjQ1MjE1OCwxOTIzNTgzNTY2LDEzMj
 UwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1
 OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF
 19
