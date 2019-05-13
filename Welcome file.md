@@ -122,6 +122,8 @@ SERIALIZERS.PY
 ## views.py 
 Now, we are doing the core of an application. views.py determines how you RESTful server response the request.
 
+There are different ways to write the code of this part. For low customize
+
 
 
     
@@ -259,7 +261,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM5MjQ3NDksMTg2NDY2MDY3NCwxOT
+eyJoaXN0b3J5IjpbLTE5MDc2NDgzNjAsMTg2NDY2MDY3NCwxOT
 IzNTgzNTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIw
 MTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NT
 ksMTc1NzU2MTU1OF19
