@@ -156,7 +156,8 @@ Click here to ADMIN.PY
 ## Test
 
  1. Let's try create a new Model1 object by using [POSTMAN](https://www.getpostman.com/)
-
+2. Oops, someting is wrong here, it shows m
+![enter image description here](https://lh3.googleusercontent.com/L6j0qq2pbNddCVhezB7x2lAUAtw-x91rZVeNAxpVcF3yL61yC7f3QZ4kIupze3QNqI_GcGoD1uc)
  
 
 
@@ -336,9 +337,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk0ODg3NDIsLTk2NzM2MzM2LDI4ND
-A2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3
-LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMj
-AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
-NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbMTEwNTQ4NzMxMSwtOTY3MzYzMzYsMjg0MD
+Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
+MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
+A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
+NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
 -->
