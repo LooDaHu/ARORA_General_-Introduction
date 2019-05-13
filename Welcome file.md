@@ -59,7 +59,7 @@ Note:
  2. There are five files with STAR notation need us to work on. Let's get into there one by one. 
 
 ## Models.py
-We can create our models at models.py. 
+We can create our models at models.py. There can be more than one model in the models.py, which means there can be 
 
 
 ## Switch to another file
@@ -193,6 +193,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTA2NzY2MiwtMTQ3MTI2NTkyOSwyMD
+eyJoaXN0b3J5IjpbLTE1OTE5NTc0MSwtMTQ3MTI2NTkyOSwyMD
 M3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
