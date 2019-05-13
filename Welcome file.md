@@ -163,7 +163,7 @@ urls.py -- route to the method --> views.py
 views.py -- . --> model.py
 model.py -- find the ojbect --> Database
 Database -- result back --> serializers.py
-serializers.py -- serialized data --> views.py
+serializers.py -- serialized data/JSON --> views.py
 views.py --. --> response
 ```
 
@@ -173,8 +173,8 @@ graph LR
 request -- . --> urls.py
 urls.py -- route to the method --> views.py
 views.py -- . --> serializers.py
-serializers.py -- deserialized --> models.py
-model.py -- find the ojbect --> Database
+serializers.py -- deserialized data/Object --> models.py
+model.py -- create/update the ojbect --> Database
 Database -- result back --> serializers.py
 serializers.py -- serialized data --> views.py
 views.py --. --> response
@@ -322,7 +322,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjQ5MzI5MywtOTY3MzYzMzYsMjg0MD
+eyJoaXN0b3J5IjpbMTkyMDE3MjA5MywtOTY3MzYzMzYsMjg0MD
 Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
 MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
 A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
