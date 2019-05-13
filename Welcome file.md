@@ -15,7 +15,7 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 3. Have created a Django Project properly. If you use Pycharm as your IDE, Things should be easy. If you do not use Pycharm, you can use
 > django-admin startproject < YOUR_PROJECT_NAME > .    
 
-4. 
+4. Have started two applications, example1 and e
 
 5. 
 ## Create files and folders
@@ -153,5 +153,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjU0OTI4MV19
+eyJoaXN0b3J5IjpbODc2NTUyNjY4XX0=
 -->
