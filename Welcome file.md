@@ -96,7 +96,7 @@ But we haven't done yet. Let's do
 
 After you see a series of OK, our model part is done.
 
-Note: If you have a drastic change on your model and you meet a weired and tough bug when you try modify your database by using **migrate**, I do recommand you delete all migration files and db.sqlite3 which is database. And try it a  
+Note: If you have a drastic change on your model and you meet a weired and tough bug when you try modify your database by using **migrate**, I do recommand you delete all migration files and db.sqlite3 which is database. And try it again.  
 
 ## Serializers.py
 
@@ -277,8 +277,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg1NTY2NTksODQ0ODEwMjAyLC00Nj
-c0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYw
-ODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LD
-IwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbLTM5Mzk5NDczMCw4NDQ4MTAyMDIsLTQ2Nz
+QyNTI2NywxODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4
+MiwxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMj
+AzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
 -->
