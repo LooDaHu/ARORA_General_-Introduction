@@ -156,7 +156,7 @@ Click here to ADMIN.PY
 ## Test
 
  1. Let's try create a new Model1 object by using [POSTMAN](https://www.getpostman.com/)
-2. Oops, someting is wrong here, it shows model2_id : object does not exist, which means our Model1Serializer wokr 
+2. Oops, someting is wrong here, it shows model2_id : object does not exist, which means our Model1Serializer works well at this point. Due to model2 _id is a foreign key of model1 and related to table Model2.
 ![enter image description here](https://lh3.googleusercontent.com/L6j0qq2pbNddCVhezB7x2lAUAtw-x91rZVeNAxpVcF3yL61yC7f3QZ4kIupze3QNqI_GcGoD1uc)
  
 
@@ -337,9 +337,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MTY4MzA5LC05NjczNjMzNiwyODQwNj
-U3MzYsLTM5Mzk5NDczMCw4NDQ4MTAyMDIsLTQ2NzQyNTI2Nywx
-ODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMD
-g0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2
-NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbLTcyMDQxMDI1MCwtOTY3MzYzMzYsMjg0MD
+Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
+MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
+A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
+NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
 -->
