@@ -67,7 +67,10 @@ Basically, Django database is based on ORM, this is to say, your database struct
 Let's bulid our model.
 MODEL.PY
 
+After we finish our code, then we do
+> python3 manage.py makemigrations 
 
+As you can see, 
 
     
 
@@ -204,7 +207,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDY0NzI4MywxMzI1MDU2MDgyLDEwMj
+eyJoaXN0b3J5IjpbMTIxNDgzNjUxOSwxMzI1MDU2MDgyLDEwMj
 AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
 NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
