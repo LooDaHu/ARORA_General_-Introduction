@@ -205,6 +205,7 @@ views.py --. --> response
 
  - Build proper model is the first key step to create a good
    application.
+   Be care of your every step, small problem, like typo, could take much time .
 
    
 
@@ -340,9 +341,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDk3MjAyNCwtOTY3MzYzMzYsMjg0MD
-Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
-MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
-A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
-NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbLTEwNTg1NjE2NzAsLTk2NzM2MzM2LDI4ND
+A2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3
+LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMj
+AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
+NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
