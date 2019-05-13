@@ -128,7 +128,10 @@ There are different ways to write the code of this part, from low customized to 
 VIEWS.PY
 
 
-## 
+## urls.py 
+Though we have done the core part of our application, but thte
+
+## admin.py
 
 
     
@@ -266,8 +269,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYyNzcwODIsLTQ2NzQyNTI2NywxOD
-Y0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMDg0
-MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2NS
-wtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbNDEyMTE0NDY4LC00Njc0MjUyNjcsMTg2ND
+Y2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5
+MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0NjUsLT
+E3MjU1NDc1NTksMTc1NzU2MTU1OF19
 -->
