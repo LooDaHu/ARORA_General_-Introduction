@@ -97,7 +97,8 @@ After you see a series of OK, our model part is done.
 
 ## Serializers.py
 
-Now we need a tool that can transf
+Now we need a tool that can transfrom our data between model and JSON format.
+Django REST Framework provides seriializers t ot 
 
 > Serializers allow complex data such as querysets and model instances
 > to be converted to native Python datatypes that can then be easily
@@ -255,7 +256,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Nzk0MDIxMiwxODY0NjYwNjc0LDE5Mj
+eyJoaXN0b3J5IjpbLTY3MDgzMjIwMSwxODY0NjYwNjc0LDE5Mj
 M1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMDg0MzkxLDE3MTAwMjAx
 OTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMTcyNTU0NzU1OS
 wxNzU3NTYxNTU4XX0=
