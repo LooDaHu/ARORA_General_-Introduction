@@ -71,7 +71,8 @@ After we finish our code, then we do
 > python3 manage.py makemigrations 
 
 As you can see, there are two new files, 0001_initial.py and db.sqlite3. 
-0001_initial.py is our blue print 
+You can regrad 0001_initial.py as the blue print of the database.
+db.sqlite3 is the brande
     
 
 
@@ -207,7 +208,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTI1MTQyOSwxMzI1MDU2MDgyLDEwMj
-AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
-NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbMjI1MDU0MzYzLDEzMjUwNTYwODIsMTAyMD
+A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
+NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
 -->
