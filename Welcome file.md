@@ -87,6 +87,10 @@ As you can see, there are two new files, 0001_initial.py and db.sqlite3.
 			}  
 	    }
 
+
+But we haven't done yet. Let's do
+> 
+
     
 
 
@@ -222,8 +226,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY1OTc4MTksMTkyMzU4MzU2NiwxMz
-I1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2
-NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NT
-hdfQ==
+eyJoaXN0b3J5IjpbLTk4OTg0MDIzMywxOTIzNTgzNTY2LDEzMj
+UwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1
+OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF
+19
 -->
