@@ -48,6 +48,7 @@ A((example1)) -- - --> B(migrarions)
 B(migrarions) -- - --> C[__init__.py]
 B(migrarions) -- - --> D{Other migration files}
 A((example1)) -- - --> E(__init__.py) 
+A((example1)) -- - --> K(tests.py) 
 A((example1)) -- - --> F(admin.py *) 
 A((example1)) -- - --> G(models.py *) 
 A((example1)) -- - --> H(view.py *)
@@ -66,6 +67,8 @@ Basically, Django database is based on ORM, this is to say, your database struct
 Let's bulid our model.
 
 MODEL.PY
+
+    enter code here
 
 
 
@@ -200,7 +203,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTA1NjA4MiwxMDIwMDg0MzkxLDE3MT
-AwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMTcyNTU0
-NzU1OSwxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbLTY2NzcwNjc1MCwxMzI1MDU2MDgyLDEwMj
+AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
+NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
