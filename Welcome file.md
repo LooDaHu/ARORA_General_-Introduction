@@ -53,10 +53,8 @@ A((example1)) -- - --> L(apps.py)
 A((example1)) -- - --> G(models.py *)
 A((example1)) -- - --> I(serializers.py *) 
 A((example1)) -- - --> K(tests.py) 
-
-A((example1)) -- - --> H(view.py *)
-
 A((example1)) -- - --> J(urls.py *)
+A((example1)) -- - --> H(view.py *)
 ```
 Note:
  1. The file structure of the application should like this figure. And please remeber those 		   files are vital for the application, and do not delete them casually, except migration files. And I will explain why migration files can be deleted at later content. 
@@ -268,8 +266,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDAwMzY0OCwtNDY3NDI1MjY3LDE4Nj
-Q2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQz
-OTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC
-0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTE0NjYyNzcwODIsLTQ2NzQyNTI2NywxOD
+Y0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMDg0
+MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2NS
+wtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
 -->
