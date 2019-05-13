@@ -158,9 +158,9 @@ Click here to ADMIN.PY
 GET 
 ```mermaid
 graph LR
-request -- . --> url.py
-url.py -- route to the method --> view.py
-view.py -- 
+request -- . --> urls.py
+urls.py -- route to the method --> views.py
+views.py --.--> model.
 ```
 
 
@@ -305,9 +305,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzM2MzM2LDI4NDA2NTczNiwtMzkzOT
-k0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3LDE4NjQ2NjA2NzQs
-MTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQzOTEsMTcxMD
-AyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3
-NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTcwNjA5ODc0NSwtOTY3MzYzMzYsMjg0MD
+Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
+MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
+A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
+NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
 -->
