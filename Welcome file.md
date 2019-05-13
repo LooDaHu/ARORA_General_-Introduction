@@ -92,7 +92,12 @@ But we haven't done yet. Let's do
 > python3 manage.py migrate
 > 
 ![enter image description here](https://lh3.googleusercontent.com/srsTro62EmaJIp_5lbypVXpdrGXBVOY8atZSbOSR--7PpPekXmRQ7Vj9Pd1GYt8_18DC3NnG6Q4)
-After you see a series of OK, our database is done
+
+After you see a series of OK, our model part is done.
+
+## Models.py
+
+
     
 
 
@@ -228,7 +233,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjQ1MjE1OCwxOTIzNTgzNTY2LDEzMj
+eyJoaXN0b3J5IjpbLTg5NTMxNTA3NCwxOTIzNTgzNTY2LDEzMj
 UwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1
 OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF
 19
