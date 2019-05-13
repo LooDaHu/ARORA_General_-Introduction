@@ -120,14 +120,14 @@ Django REST Framework provides serializers to do this job. What we need to do is
 
 Let's start with our code.
 
-SERIALIZERS.PY
+Click here to SERIALIZERS.PY
 
 ## views.py 
 Now, we are doing the core of an application. views.py determines how you RESTful server response the request.
 
 There are different ways to write the code of this part, from low customized to highly customized. Here, I just provide a way which I think should be easy and clear.
 
-VIEWS.PY
+Click here to VIEWS.PY
 
 
 ## urls.py 
@@ -137,13 +137,21 @@ REMEMBER: Do not forget add the urls of the application into the main applicatio
 
 < root_dir >/ djangorest_example/ urls.py 
 
+    from django.contrib import admin  
+    from django.urls import path, include  
+      
+    urlpatterns = [  
+        path('admin/', admin.site.urls),  
+      path('', include('example1.urls')),  
+    ]
 
-URLS.PY
+
+Click here to URLS.PY
 
 ## admin.py
 We alomost done. But we want our admin site knows we have a new application. So, we need a register in admin.py.
 
-ADMIN.PY
+Click here to ADMIN.PY
 
 
 
@@ -281,10 +289,11 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTYwOTEzNSwtMzkzOTk0NzMwLDg0ND
-gxMDIwMiwtNDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2
-NiwxMzI1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMT
-Q3MTI2NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1
-NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTIxMjk0MTIyMjksLTM5Mzk5NDczMCw4ND
+Q4MTAyMDIsLTQ2NzQyNTI2NywxODY0NjYwNjc0LDE5MjM1ODM1
+NjYsMTMyNTA1NjA4MiwxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLT
+E0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNzU3
+NTYxNTU4XX0=
 -->
