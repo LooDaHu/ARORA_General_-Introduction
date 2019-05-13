@@ -50,11 +50,12 @@ B(migrarions) -- - --> D{Other migration files}
 A((example1)) -- - --> E(__init__.py) 
 A((example1)) -- - --> F(admin.py *) 
 A((example1)) -- - --> L(apps.py)
-A((example1)) -- - --> G(models.py *) 
+A((example1)) -- - --> G(models.py *)
+A((example1)) -- - --> I(serializers.py *) 
 A((example1)) -- - --> K(tests.py) 
 
 A((example1)) -- - --> H(view.py *)
-A((example1)) -- - --> I(serializers.py *)
+
 A((example1)) -- - --> J(urls.py *)
 ```
 Note:
@@ -267,7 +268,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Mzc1Njg1MiwtNDY3NDI1MjY3LDE4Nj
+eyJoaXN0b3J5IjpbLTQyNDAwMzY0OCwtNDY3NDI1MjY3LDE4Nj
 Q2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQz
 OTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC
 0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
