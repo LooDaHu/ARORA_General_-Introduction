@@ -37,10 +37,12 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 ## FIie structure and explanation 
 Let's take example1, one of our created application, as an example.
 
-example1
-	|--> migrations
-	|-->
-	|-->
+```mermaid
+graph LR
+A((example1)) ---->
+A[Square Rect] -- Link text --> B((Circle))
+
+```
 	
 
 ## Create files and folders
@@ -178,5 +180,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTU2MzQ1MiwxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbLTE2NTIyODAzMTAsMTc1NzU2MTU1OF19
 -->
