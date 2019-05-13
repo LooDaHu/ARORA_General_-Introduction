@@ -160,7 +160,10 @@ GET
 graph LR
 request -- . --> urls.py
 urls.py -- route to the method --> views.py
-views.py --.--> model.
+views.py -- . --> model.py
+model.py -- find the oject --> Database
+Database -- founded oject back --> serializers.py
+serial
 ```
 
 
@@ -305,7 +308,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjA5ODc0NSwtOTY3MzYzMzYsMjg0MD
+eyJoaXN0b3J5IjpbLTY2NDk0NDYwNiwtOTY3MzYzMzYsMjg0MD
 Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
 MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
 A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
