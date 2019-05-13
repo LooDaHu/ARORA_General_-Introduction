@@ -96,7 +96,7 @@ But we haven't done yet. Let's do
 
 After you see a series of OK, our model part is done.
 
-Note: If you have as
+Note: If you have a drastic change on your model and you meet a weired bug ds
 
 ## Serializers.py
 
@@ -277,7 +277,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTg5MzU5OSw4NDQ4MTAyMDIsLTQ2Nz
+eyJoaXN0b3J5IjpbMTQzNDU3MDQwMCw4NDQ4MTAyMDIsLTQ2Nz
 QyNTI2NywxODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4
 MiwxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMj
 AzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
