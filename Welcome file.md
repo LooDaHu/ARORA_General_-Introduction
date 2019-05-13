@@ -66,7 +66,7 @@ We can create our models at models.py. There can be more than one model in the m
 Basically, Django database is based on ORM, this is to say, your database structure is determined by your code in model.py.
 
 Let's bulid our model.
-Click here to MODEL.PY
+[Click here to MODEL.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/models.py)
 
 After we finish our code, then we do
 > python3 manage.py makemigrations 
@@ -120,14 +120,14 @@ Django REST Framework provides serializers to do this job. What we need to do is
 
 Let's start with our code.
 
-Click here to SERIALIZERS.PY
+[Click here to SERIALIZERS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/serializers.py)
 
 ## views.py 
 Now, we are doing the core of an application. views.py determines how you RESTful server response the request.
 
 There are different ways to write the code of this part, from low customized to highly customized. Here, I just provide a way which I think should be easy and clear.
 
-Click here to VIEWS.PY
+[Click here to VIEWS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/views.py)
 
 
 ## urls.py 
@@ -146,7 +146,7 @@ REMEMBER: Do not forget add the urls of the application into the main applicatio
     ]
 
 
-Click here to URLS.PY
+[Click here to URLS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/urls.py)
 
 ## admin.py
 We alomost done. But we want our admin site knows we have a new application. So, we need a register in admin.py.
@@ -343,9 +343,10 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4NzM1OTk4LC05NjczNjMzNiwyODQwNj
-U3MzYsLTM5Mzk5NDczMCw4NDQ4MTAyMDIsLTQ2NzQyNTI2Nywx
-ODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMD
-g0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2
-NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbLTEzNDMwNjIxMyw5Mjg3MzU5OTgsLTk2Nz
+M2MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwt
+NDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MD
+U2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTky
+OSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ
+==
 -->
