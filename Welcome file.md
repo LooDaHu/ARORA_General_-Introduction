@@ -70,8 +70,8 @@ MODEL.PY
 After we finish our code, then we do
 > python3 manage.py makemigrations 
 
-As you can see, 
-
+As you can see, there are two new files, 0001_initial.py and db.sqlite3. 
+0001_initial.py is our blue print 
     
 
 
@@ -207,7 +207,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDgzNjUxOSwxMzI1MDU2MDgyLDEwMj
+eyJoaXN0b3J5IjpbMTE4MTI1MTQyOSwxMzI1MDU2MDgyLDEwMj
 AwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMz
 NDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
