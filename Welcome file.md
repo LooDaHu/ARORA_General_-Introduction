@@ -38,7 +38,7 @@ Here is a [tutorial](https://wsvincent.com/django-rest-framework-tutorial/) coul
 ## FIie structure and explanation
 After we have done the set-up, the whole project should look like this.
 ![enter image description here](https://lh3.googleusercontent.com/CAbsN_SgS47Dvu1yrGXq6M68HYC0CsG8ET-WWknex3Qeukezihxp_NPHA59Mxm6B2GSCYJ0vRrY) 
-And don't forget create serializers.py and urls.py manually under every application.
+And don't forget to create serializers.py and urls.py manually under every application.
 
 Now, 
 Let's take example1, one of our created application, as an example.
@@ -196,6 +196,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzMwNTIzMywtMTQ3MTI2NTkyOSwyMD
+eyJoaXN0b3J5IjpbLTcxMTc5MDkwMiwtMTQ3MTI2NTkyOSwyMD
 M3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
