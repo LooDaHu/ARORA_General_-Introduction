@@ -95,7 +95,8 @@ But we haven't done yet. Let's do
 
 After you see a series of OK, our model part is done.
 
-## Models.py
+## Serializers.py
+Serializers is a 
 
 
     
@@ -233,8 +234,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTMxNTA3NCwxOTIzNTgzNTY2LDEzMj
-UwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1
-OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF
-19
+eyJoaXN0b3J5IjpbLTEwOTc4NDY1MzEsMTkyMzU4MzU2NiwxMz
+I1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2
+NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NT
+hdfQ==
 -->
