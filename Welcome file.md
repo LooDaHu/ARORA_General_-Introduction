@@ -37,7 +37,7 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 ## FIie structure and explanation
 After we have done the set-up, the whole project should look like this.
 ![enter image description here](https://lh3.googleusercontent.com/CAbsN_SgS47Dvu1yrGXq6M68HYC0CsG8ET-WWknex3Qeukezihxp_NPHA59Mxm6B2GSCYJ0vRrY) 
-And don't forget create serializers.py and 
+And don't forget create serializers.py and urls.py manually under every application.
 Let's take example1, one of our created application, as an example.
 
 ```mermaid
@@ -191,5 +191,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjA5OTE2NywxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbLTE5MjkzNTYwMTYsMTc1NzU2MTU1OF19
 -->
