@@ -34,7 +34,7 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
         'rest_framework',  
        ]
 
-Here is a tutorial for set-up d
+Here is a [tutorial](https://wsvincent.com/django-rest-framework-tutorial/) could be help at set-up.
 ## FIie structure and explanation
 After we have done the set-up, the whole project should look like this.
 ![enter image description here](https://lh3.googleusercontent.com/CAbsN_SgS47Dvu1yrGXq6M68HYC0CsG8ET-WWknex3Qeukezihxp_NPHA59Mxm6B2GSCYJ0vRrY) 
@@ -196,6 +196,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4OTAwODk2LDIwMzczMzM0NjUsLTE3Mj
-U1NDc1NTksMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbLTE0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMT
+cyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
 -->
