@@ -61,7 +61,7 @@ Note:
 ## Models.py
 We can create our models at models.py. There can be more than one model in the models.py, which means there can be more than one model in a application.
 
-Basically, Django database is based on ORM,
+Basically, Django database is based on ORM, this is to say, your database structure.
 
 
 ## Switch to another file
@@ -195,6 +195,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTM0MzAwOCwtMTQ3MTI2NTkyOSwyMD
+eyJoaXN0b3J5IjpbMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMD
 M3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
