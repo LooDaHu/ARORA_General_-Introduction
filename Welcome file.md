@@ -3,7 +3,7 @@
 Hi, this is a simple tutorial related to ARORA project. In this tutorial, you will learn about how to primarily use Django-REST-framework and Retrofit2.
 
 
-# Djang-REST-framework
+# Django-REST-framework
 ## Setup
 Let's start with Django-rest-framework. Before we get started, please make sure:
 1. You have a python3 on your machine. Though Python is cross-platform, I recommend you use Linux or Linux VM as your operating system.
@@ -57,7 +57,7 @@ A((example1)) -- - --> J(urls.py *)
 ```
 Note:
  1. The file structure of the application should like this figure. And please remeber those 		   files are vital for the application, and do not delete them casually, except migration files. And I will explain why migration files as 
- 2. There are five files with 
+ 2. There are five files with STAR notation need us to work on. 
 
 	
 
@@ -196,6 +196,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMT
-cyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbLTcyNzMwNTIzMywtMTQ3MTI2NTkyOSwyMD
+M3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
