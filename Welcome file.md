@@ -124,6 +124,10 @@ Now, we are doing the core of an application. views.py determines how you RESTfu
 
 There are different ways to write the code of this part, from low customized to highly customized. Here, I just provide a way which I think should be easy and clear.
 
+VIEWS.PY
+
+
+## 
 
 
     
@@ -261,8 +265,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjA2NTgwNCwtNDY3NDI1MjY3LDE4Nj
-Q2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQz
-OTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC
-0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTM2NTM3NDEsLTQ2NzQyNTI2NywxODY0Nj
+YwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMDg0Mzkx
+LDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMT
+cyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
 -->
