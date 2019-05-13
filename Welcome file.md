@@ -112,6 +112,10 @@ After you see a series of OK, our model part is done.
 > 
 > From Django REST Framework 
 
+Let's start with our code.
+
+SERIALIZERS.PY
+
 
     
 
@@ -248,7 +252,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg2NjcxMCwxOTIzNTgzNTY2LDEzMj
+eyJoaXN0b3J5IjpbMTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMj
 UwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1
 OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF
 19
