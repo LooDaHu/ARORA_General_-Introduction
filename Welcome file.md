@@ -97,6 +97,8 @@ After you see a series of OK, our model part is done.
 
 ## Serializers.py
 
+Now we need a tool that can transf
+
 > Serializers allow complex data such as querysets and model instances
 > to be converted to native Python datatypes that can then be easily
 > rendered into  `JSON`,  `XML`  or other content types. Serializers
@@ -115,6 +117,7 @@ After you see a series of OK, our model part is done.
 Let's start with our code.
 
 SERIALIZERS.PY
+
 
 
     
@@ -252,8 +255,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMj
-UwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1
-OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF
-19
+eyJoaXN0b3J5IjpbMTk3Nzk0MDIxMiwxODY0NjYwNjc0LDE5Mj
+M1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMDg0MzkxLDE3MTAwMjAx
+OTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMTcyNTU0NzU1OS
+wxNzU3NTYxNTU4XX0=
 -->
