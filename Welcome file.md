@@ -66,7 +66,7 @@ We can create our models at models.py. There can be more than one model in the m
 Basically, Django database is based on ORM, this is to say, your database structure is determined by your code in model.py.
 
 Let's bulid our model.
-MODEL.PY
+Click here to MODEL.PY
 
 After we finish our code, then we do
 > python3 manage.py makemigrations 
@@ -291,9 +291,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk0MTIyMjksLTM5Mzk5NDczMCw4ND
-Q4MTAyMDIsLTQ2NzQyNTI2NywxODY0NjYwNjc0LDE5MjM1ODM1
-NjYsMTMyNTA1NjA4MiwxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLT
-E0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNzU3
-NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0OD
+EwMjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2
+LDEzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xND
+cxMjY1OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2
+MTU1OF19
 -->
