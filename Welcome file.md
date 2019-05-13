@@ -39,8 +39,13 @@ Let's take example1, one of our created application, as an example.
 
 ```mermaid
 graph LR
-A((example1)) ---->
-A[Square Rect] -- Link text --> B((Circle))
+A((example1)) -- - --> B(migrarions) 
+B(migrarions) -- - --> C[__intit__.py]
+B(migrarions) -- - --> D{Other migrations files}
+A((example1)) -- - --> E(__init__.py) 
+A((example1)) -- - --> F(migrarions) 
+A((example1)) -- - --> G(migrarions) 
+A((example1)) -- - --> H(migrarions) 
 
 ```
 	
@@ -180,5 +185,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTIyODAzMTAsMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbLTY1NzU4NDQ2OCwxNzU3NTYxNTU4XX0=
 -->
