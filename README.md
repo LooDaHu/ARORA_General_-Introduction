@@ -1,6 +1,7 @@
 # Welcome to Tutorial!
 
 Hi, this is a simple tutorial related to ARORA project. In this tutorial, you will learn about how to primarily use Django-REST-framework and Retrofit2.
+Due to Github does not support Style HTML with TOC. You can download the html file in this project to have a better reading experience.
 
 
 # Django-REST-framework
