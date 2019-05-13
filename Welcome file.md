@@ -45,7 +45,7 @@ Let's take example1, one of our created application, as an example.
 ```mermaid
 graph LR
 A((example1)) -- - --> B(migrarions) 
-B(migrarions) -- - --> C[__intit__.py]
+B(migrarions) -- - --> C[__init__.py]
 B(migrarions) -- - --> D{Other migration files}
 A((example1)) -- - --> E(__init__.py) 
 A((example1)) -- - --> F(admin.py) 
@@ -54,9 +54,10 @@ A((example1)) -- - --> H(view.py)
 A((example1)) -- - --> I(serializers.py)
 A((example1)) -- - --> J(urls.py)
 ```
+Note:
+ 1. The file structure of the application should like this figure. And please remeber those files are vital for the application, and do not delete them casually, except other migration files.
+ 2.  
 
-
-The file structure of the application should like this figure. And please remeber those files are vital for the application, and do not delete them casually, except other migration files. 
 	
 
 ## Create files and folders
@@ -194,5 +195,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU4ODY0NzQsMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbLTcxNzY1OTIwMSwxNzU3NTYxNTU4XX0=
 -->
