@@ -19,9 +19,20 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 	> python3 manage.py startapp example1
 	> python3 manage.py startapp example2
 
-5. You have example1, example2 and rest_framework at **INSTALLED_APPS** list which is at  < root_dir>/ djangorest_example/st. 
+5. You have example1, example2 and rest_framework at **INSTALLED_APPS** list which is at  *< root_dir>/ djangorest_example/setting.py* . 
 
-    enter code here
+        INSTALLED_APPS = [  
+        'django.contrib.admin',  
+	    'django.contrib.auth',  
+        'django.contrib.contenttypes',  
+        'django.contrib.sessions',  
+        'django.contrib.messages',  
+        'django.contrib.staticfiles',  
+      
+        'example1',  
+        'example2',  
+        'rest_framework',  
+       ]
 
 ## Create files and folders
 
@@ -158,5 +169,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDYyMDI0LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTU0OTYzMjY1MCwxNzU3NTYxNTU4XX0=
 -->
