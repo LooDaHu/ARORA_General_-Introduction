@@ -134,7 +134,7 @@ Though we have done the core part of our application, but there is still no rout
 URLS.PY
 
 ## admin.py
-We alomost done. But we want our admin site knows we have a new 
+We alomost done. But we want our admin site knows we have a new application. 
 
 
     
@@ -272,8 +272,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0ODEwMjAyLC00Njc0MjUyNjcsMTg2ND
-Y2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5
-MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0NjUsLT
-E3MjU1NDc1NTksMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbLTEyNDE4NTMzMTgsODQ0ODEwMjAyLC00Nj
+c0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYw
+ODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LD
+IwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
 -->
