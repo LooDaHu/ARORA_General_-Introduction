@@ -162,7 +162,7 @@ Click here to ADMIN.PY
 3. Let's create a new Model2 object by admin site. And try it again.
 ![enter image description here](https://lh3.googleusercontent.com/QLGA7_LmeEvw9uFEVNF_bcGuVM3ITVd2wNjXiVAdB3QFdchWlPdRq9bpYck3Wwh1LayhGq1ThLA)
 
-4. It seems works well. Let's double check it by GET. 
+4. It seems works well. Let's double check it by GET. It returns expected result.
 ![enter image description here](https://lh3.googleusercontent.com/uawP4QPa_gcs7bPtk-pkpRBla_lptdI6LRxtidUmIEVZYk-yKkLe3_fpzMYld1VjWgsg9Vp62HQ)
 ## Summary 
 
@@ -340,7 +340,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzk4NjM3MSwtOTY3MzYzMzYsMjg0MD
+eyJoaXN0b3J5IjpbMTI3MDk3MjAyNCwtOTY3MzYzMzYsMjg0MD
 Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
 MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
 A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
