@@ -38,7 +38,10 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 Let's take example1, one of our created application, as an example.
 
 example1
-	|--
+	|--> migrations
+	|-->
+	|-->
+	
 
 ## Create files and folders
 
@@ -175,5 +178,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTAwOTAxLDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbMTg1NTU2MzQ1MiwxNzU3NTYxNTU4XX0=
 -->
