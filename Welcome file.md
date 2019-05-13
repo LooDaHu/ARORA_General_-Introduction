@@ -13,11 +13,12 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 	> pip(pipenv) install djangorestframework
 
 3. Have created a Django Project properly. If you use Pycharm as your IDE, Things should be easy. If you do not use Pycharm, you can use
-> django-admin startproject < YOUR_PROJECT_NAME > .    
+	> django-admin startproject < YOUR_PROJECT_NAME > .    
 
-4. Have started two applications, example1 and e
+4. Have started two applications, example1 and example2.
+	>python3 manage.py startapp example1 a  
 
-5. 
+6. 
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -153,5 +154,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2NTUyNjY4XX0=
+eyJoaXN0b3J5IjpbLTIxMDk3MzUzMjZdfQ==
 -->
