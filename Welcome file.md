@@ -15,9 +15,9 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 3. Have created a Django Project properly. If you use Pycharm as your IDE, Things should be easy. If you do not use Pycharm, you can use
 	> django-admin startproject < YOUR_PROJECT_NAME > .    
 
-4. Have started two applications, example1 and example2.
+4. Have started a application, example1.
 	> python3 manage.py startapp example1
-	> python3 manage.py startapp example2
+
 
 5. You have example1, example2 and rest_framework at **INSTALLED_APPS** list which is at  *< root_dir>/ djangorest_example/setting.py* . 
 
@@ -59,6 +59,7 @@ Note:
  2. There are five files with STAR notation need us to work on. Let's get into there. 
 
 ## Models.py
+We can create our models at models.py. 
 
 
 ## Switch to another file
@@ -192,6 +193,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI0MTA5MDgsLTE0NzEyNjU5MjksMj
-AzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbMTg1Mzg4MzEwNSwtMTQ3MTI2NTkyOSwyMD
+M3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
