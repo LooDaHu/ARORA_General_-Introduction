@@ -132,7 +132,11 @@ VIEWS.PY
 
 ## urls.py 
 Though we have done the core part of our application, but there is still no route to access our server. So, we have to set urls for our server.
-REMEMBER: Do not forget add the urls of the application into the main application, w
+
+REMEMBER: Do not forget add the urls of the application into the main application, which should be djangorest_example in this case.
+
+< root_dir >/ djangorest_example/ urls.py 
+
 
 URLS.PY
 
@@ -278,7 +282,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzgwOTM3MSwtMzkzOTk0NzMwLDg0ND
+eyJoaXN0b3J5IjpbMTY4MTYwOTEzNSwtMzkzOTk0NzMwLDg0ND
 gxMDIwMiwtNDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2
 NiwxMzI1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMT
 Q3MTI2NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1
