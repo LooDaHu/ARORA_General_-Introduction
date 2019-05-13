@@ -19,7 +19,7 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 	> python3 manage.py startapp example1
 	> python3 manage.py startapp example2
 
-5. You have example1, example2 and at **INSTALLED_APPS** list. 
+5. You have example1, example2 and rest_framework at **INSTALLED_APPS** list which is at  < root_dir>/ djangorest_example/st. 
 
     enter code here
 
@@ -158,5 +158,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDIyOTY3NCwxNzU3NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbMTM1NDYyMDI0LDE3NTc1NjE1NThdfQ==
 -->
