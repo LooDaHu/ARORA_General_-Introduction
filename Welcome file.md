@@ -215,13 +215,20 @@ views.py --. --> response
 
 To be done
 
+# Contact
+If you have any question about the above content, be free to contact me.
+>Developer: Jinming Yang
+>Email: jy345@nau.edu
+>Github: @LooDaHu
+>WeChat: a651120561
 
+This is just a simple tutorial how to fast set up, if you want to learn more and 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA5NDM4OTYsOTI4NzM1OTk4LC05Nj
-czNjMzNiwyODQwNjU3MzYsLTM5Mzk5NDczMCw4NDQ4MTAyMDIs
-LTQ2NzQyNTI2NywxODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNT
-A1NjA4MiwxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5
-MjksMjAzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX
-0=
+eyJoaXN0b3J5IjpbMTQyMjIxNjQ1MCw5Mjg3MzU5OTgsLTk2Nz
+M2MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwt
+NDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MD
+U2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTky
+OSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ
+==
 -->
