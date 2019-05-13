@@ -29,8 +29,7 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
         'django.contrib.messages',  
         'django.contrib.staticfiles',  
       
-        'example1',  
-        'example2',  
+        'example1', 
         'rest_framework',  
        ]
 
@@ -57,13 +56,10 @@ A((example1)) -- - --> J(urls.py *)
 ```
 Note:
  1. The file structure of the application should like this figure. And please remeber those 		   files are vital for the application, and do not delete them casually, except migration files. And I will explain why migration files as 
- 2. There are five files with STAR notation need us to work on. 
+ 2. There are five files with STAR notation need us to work on. Let's get into there. 
 
-	
+## Models.py
 
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
 ## Switch to another file
 
@@ -196,6 +192,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTc5MDkwMiwtMTQ3MTI2NTkyOSwyMD
-M3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTEzODI0MTA5MDgsLTE0NzEyNjU5MjksMj
+AzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
 -->
