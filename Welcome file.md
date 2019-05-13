@@ -9,7 +9,10 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
 1. You have a python3 on your machine. Though Python is cross-platform, I recommend you use Linux or Linux VM as your operating system.
  
 2. You have installed Django and Django-rest-framework on your python. If you haven't
-	> pip(pip) install 
+	> pip(pipenv) install django
+	> pip(pipenv) install djangorestframework
+
+3. Have create a
 
 4. 
 ## Create files and folders
@@ -147,5 +150,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDc2OTA5MF19
+eyJoaXN0b3J5IjpbOTM1Njk1MTg2XX0=
 -->
