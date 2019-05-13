@@ -55,8 +55,8 @@ A((example1)) -- - --> I(serializers.py *)
 A((example1)) -- - --> J(urls.py *)
 ```
 Note:
- 1. The file structure of the application should like this figure. And please remeber those 		   files are vital for the application, and do not delete them casually, except migration files. And I will explain why migration files as 
- 2. There are five files with STAR notation need us to work on. Let's get into there. 
+ 1. The file structure of the application should like this figure. And please remeber those 		   files are vital for the application, and do not delete them casually, except migration files. And I will explain why migration files can be deleted at later content. 
+ 2. There are five files with STAR notation need us to work on. Let's get into there one by one. 
 
 ## Models.py
 We can create our models at models.py. 
@@ -193,6 +193,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mzg4MzEwNSwtMTQ3MTI2NTkyOSwyMD
+eyJoaXN0b3J5IjpbLTI2OTA2NzY2MiwtMTQ3MTI2NTkyOSwyMD
 M3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
 -->
