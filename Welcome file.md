@@ -94,7 +94,7 @@ But we haven't done yet. Let's do
 > 
 ![enter image description here](https://lh3.googleusercontent.com/srsTro62EmaJIp_5lbypVXpdrGXBVOY8atZSbOSR--7PpPekXmRQ7Vj9Pd1GYt8_18DC3NnG6Q4)
 
-After you see a series of OK, our model and part is done.
+After you see a series of OK, our model and database part is done.
 
 Note: If you have a drastic change on your model and you meet a weired and tough bug when you try modify your database by using **migrate**, I do recommand you delete all migration files and db.sqlite3 which is database. And try it again.  
 
@@ -227,10 +227,10 @@ This is just a simple tutorial how to fast set up, if you want to learn more and
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA2MDc3MDAsOTI4NzM1OTk4LC05Nj
-czNjMzNiwyODQwNjU3MzYsLTM5Mzk5NDczMCw4NDQ4MTAyMDIs
-LTQ2NzQyNTI2NywxODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNT
-A1NjA4MiwxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5
-MjksMjAzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX
-0=
+eyJoaXN0b3J5IjpbMTcxMDg5MTgzNyw5Mjg3MzU5OTgsLTk2Nz
+M2MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwt
+NDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MD
+U2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTky
+OSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ
+==
 -->
