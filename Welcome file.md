@@ -3,9 +3,9 @@
 Hi, this is a simple tutorial related to ARORA project. In this tutorial, you will learn about how to primarily use Django-REST-framework and Retrofit2.
 
 
-# Djang-R
+# Djang-REST-framework
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Let's start with django-rest-framework. Before we get start
 
 ## Create files and folders
 
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2ODQzNDI0XX0=
+eyJoaXN0b3J5IjpbLTk0MDg1Njc3MV19
 -->
