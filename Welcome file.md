@@ -54,7 +54,9 @@ A((example1)) -- - --> H(view.py)
 A((example1)) -- - --> I(serializers.py)
 A((example1)) -- - --> J(urls.py)
 ```
-The file structure of the application should like this figure. And please remeber those files are vital for the application, and do not delete them cau
+
+
+The file structure of the application should like this figure. And please remeber those files are vital for the application, and do not delete them casually, except other migration files. 
 	
 
 ## Create files and folders
@@ -192,5 +194,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5NDA0NjgxLDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTE3NjU4ODY0NzQsMTc1NzU2MTU1OF19
 -->
