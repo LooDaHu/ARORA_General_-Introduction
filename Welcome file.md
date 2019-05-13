@@ -46,7 +46,7 @@ Let's take example1, one of our created application, as an example.
 graph LR
 A((example1)) -- - --> B(migrarions) 
 B(migrarions) -- - --> C[__intit__.py]
-B(migrarions) -- - --> D{Other migrations files}
+B(migrarions) -- - --> D{Other migration files}
 A((example1)) -- - --> E(__init__.py) 
 A((example1)) -- - --> F(admin.py) 
 A((example1)) -- - --> G(models.py) 
@@ -54,7 +54,7 @@ A((example1)) -- - --> H(view.py)
 A((example1)) -- - --> I(serializers.py)
 A((example1)) -- - --> J(urls.py)
 ```
-The file structure of the application 
+The file structure of the application should like this figure. And please remeber those files are vital for the application, and do not delete them cau
 	
 
 ## Create files and folders
@@ -192,5 +192,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDMwNDU2LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbOTc5NDA0NjgxLDE3NTc1NjE1NThdfQ==
 -->
