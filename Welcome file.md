@@ -155,10 +155,10 @@ Click here to ADMIN.PY
 
 
 ## Summary 
-```mrmaid
+```mermaid
 graph LR
-request()
-
+request(request) -- . --> url.py
+url.py(url.py) -- route to the method --> view.py
 ```
 
 
@@ -303,9 +303,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxNTQ5OTE0LDI4NDA2NTczNiwtMzkzOT
-k0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3LDE4NjQ2NjA2NzQs
-MTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQzOTEsMTcxMD
-AyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3
-NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTgxMTE3OTUxOSwyODQwNjU3MzYsLTM5Mz
+k5NDczMCw4NDQ4MTAyMDIsLTQ2NzQyNTI2NywxODY0NjYwNjc0
+LDE5MjM1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMDg0MzkxLDE3MT
+AwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMTcyNTU0
+NzU1OSwxNzU3NTYxNTU4XX0=
 -->
