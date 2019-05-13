@@ -153,6 +153,9 @@ We alomost done. But we want our admin site knows we have a new application. So,
 
 Click here to ADMIN.PY
 
+## Test
+ 
+
 
 ## Summary 
 
@@ -196,9 +199,7 @@ views.py --. --> response
  - Build proper model is the first key step to create a good
    application.
 
-    
-
-
+   
 
 ## Switch to another file
 
@@ -332,9 +333,9 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzgxMjg1NSwtOTY3MzYzMzYsMjg0MD
-Y1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcs
-MTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMD
-A4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0
-NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbMjAyNTU3MzIzLC05NjczNjMzNiwyODQwNj
+U3MzYsLTM5Mzk5NDczMCw4NDQ4MTAyMDIsLTQ2NzQyNTI2Nywx
+ODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMD
+g0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2
+NSwtMTcyNTU0NzU1OSwxNzU3NTYxNTU4XX0=
 -->
