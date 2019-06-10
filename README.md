@@ -163,10 +163,10 @@ We are almost done. But we want our admin site knows we have a new application. 
 2. Oops, someting is wrong here, it shows model2_id : object does not exist, which means our Model1Serializer works well at this point. Due to model2 _id is a foreign key of model1 and related to table Model2.
 ![enter image description here](https://lh3.googleusercontent.com/L6j0qq2pbNddCVhezB7x2lAUAtw-x91rZVeNAxpVcF3yL61yC7f3QZ4kIupze3QNqI_GcGoD1uc)
  
-3. Let's create a new Model2 object by admin site. And try it again.
+3. Let's create a new Model2 object by admin site. And try to create Model1 object again.
 ![enter image description here](https://lh3.googleusercontent.com/QLGA7_LmeEvw9uFEVNF_bcGuVM3ITVd2wNjXiVAdB3QFdchWlPdRq9bpYck3Wwh1LayhGq1ThLA)
 
-4. It seems works well. Let's double check it by GET. It returns expected result.
+4. It seems works well. Let's double check it by GET. It returns the expected result.
 ![enter image description here](https://lh3.googleusercontent.com/uawP4QPa_gcs7bPtk-pkpRBla_lptdI6LRxtidUmIEVZYk-yKkLe3_fpzMYld1VjWgsg9Vp62HQ)
 ## Summary 
 
@@ -229,11 +229,11 @@ This is just a simple tutorial about how to fast working on this framework if yo
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ0MTkwNjksLTMwMjE4MzY4MSwtMT
-c1MDAxNjkwOCwtMTgwMDQzMzk4NSwtMTUzNDY5OTk5MSwtMjA4
-OTQzNjUyMCwxNzEwODkxODM3LDkyODczNTk5OCwtOTY3MzYzMz
-YsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0
-MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwOD
-IsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIw
-MzczMzM0NjVdfQ==
+eyJoaXN0b3J5IjpbLTQ5Mzk2NzMyOSwtMzAyMTgzNjgxLC0xNz
+UwMDE2OTA4LC0xODAwNDMzOTg1LC0xNTM0Njk5OTkxLC0yMDg5
+NDM2NTIwLDE3MTA4OTE4MzcsOTI4NzM1OTk4LC05NjczNjMzNi
+wyODQwNjU3MzYsLTM5Mzk5NDczMCw4NDQ4MTAyMDIsLTQ2NzQy
+NTI2NywxODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4Mi
+wxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMjAz
+NzMzMzQ2NV19
 -->
