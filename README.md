@@ -41,6 +41,7 @@ Here is a [tutorial](https://wsvincent.com/django-rest-framework-tutorial/) coul
 ## FIie structure and explanation
 After we have done the set-up, the whole project should look like this.
 ![enter image description here](https://lh3.googleusercontent.com/CAbsN_SgS47Dvu1yrGXq6M68HYC0CsG8ET-WWknex3Qeukezihxp_NPHA59Mxm6B2GSCYJ0vRrY) 
+
 And don't forget to create serializers.py and urls.py manually in every application.
 
 Now, 
@@ -229,11 +230,11 @@ This is just a simple tutorial about how to fast working on this framework if yo
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mzk2NzMyOSwtMzAyMTgzNjgxLC0xNz
-UwMDE2OTA4LC0xODAwNDMzOTg1LC0xNTM0Njk5OTkxLC0yMDg5
-NDM2NTIwLDE3MTA4OTE4MzcsOTI4NzM1OTk4LC05NjczNjMzNi
-wyODQwNjU3MzYsLTM5Mzk5NDczMCw4NDQ4MTAyMDIsLTQ2NzQy
-NTI2NywxODY0NjYwNjc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4Mi
-wxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLTE0NzEyNjU5MjksMjAz
-NzMzMzQ2NV19
+eyJoaXN0b3J5IjpbODIwMDY2Mjg5LC0zMDIxODM2ODEsLTE3NT
+AwMTY5MDgsLTE4MDA0MzM5ODUsLTE1MzQ2OTk5OTEsLTIwODk0
+MzY1MjAsMTcxMDg5MTgzNyw5Mjg3MzU5OTgsLTk2NzM2MzM2LD
+I4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1
+MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLD
+EwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3
+MzMzNDY1XX0=
 -->
