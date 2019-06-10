@@ -41,7 +41,7 @@ Here is a [tutorial](https://wsvincent.com/django-rest-framework-tutorial/) coul
 ## FIie structure and explanation
 After we have done the set-up, the whole project should look like this.
 ![enter image description here](https://lh3.googleusercontent.com/CAbsN_SgS47Dvu1yrGXq6M68HYC0CsG8ET-WWknex3Qeukezihxp_NPHA59Mxm6B2GSCYJ0vRrY) 
-And don't forget to create serializers.py and urls.py manually in the every application.
+And don't forget to create serializers.py and urls.py manually in every application.
 
 Now, 
 Let's take example1, one of our created application, as an example.
@@ -61,7 +61,7 @@ A((example1)) -- - --> J(urls.py *)
 A((example1)) -- - --> H(view.py *)
 ```
 Note:
- 1. The file structure of the application should like this figure. And please remeber those 		   files are vital for the application, and do not delete them casually, except migration files. And I will explain why migration files can be deleted at later content. 
+ 1. The file structure of the application should like this figure. And please remeber those  files are vital for the application, and do not delete them casually, except migration files. And I will explain why migration files can be deleted at later content. 
  2. There are five files with STAR notation need us to work on. Let's get into there one by one. 
 
 ## Models.py
@@ -231,7 +231,7 @@ This is just a simple tutorial how to fast set up, if you want to learn more and
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTEzODUyNjcsLTE1MzQ2OTk5OTEsLT
+eyJoaXN0b3J5IjpbLTE5OTAyNjEyNjgsLTE1MzQ2OTk5OTEsLT
 IwODk0MzY1MjAsMTcxMDg5MTgzNyw5Mjg3MzU5OTgsLTk2NzM2
 MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtND
 Y3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2
