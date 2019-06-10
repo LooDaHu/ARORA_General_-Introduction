@@ -35,7 +35,7 @@ Let's start with Django-rest-framework. Before we get started, please make sure:
        ]
 
 
-6. Virtual environment is recommanded. No matter which way you choose, please make sure the required packages are installed 
+6. The virtual environment is recommended. No matter which way you choose, please make sure the required packages are installed on the correspending 
 
 Here is a [tutorial](https://wsvincent.com/django-rest-framework-tutorial/) could be help at set-up stage.
 ## FIie structure and explanation
@@ -231,10 +231,10 @@ This is just a simple tutorial how to fast set up, if you want to learn more and
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTIzNTUxNiwxNzEwODkxODM3LDkyOD
-czNTk5OCwtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAs
-ODQ0ODEwMjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNT
-gzNTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3
-LC0xNDcxMjY1OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMT
-c1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbLTIwODk0MzY1MjAsMTcxMDg5MTgzNyw5Mj
+g3MzU5OTgsLTk2NzM2MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMw
+LDg0NDgxMDIwMiwtNDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMz
+U4MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5
+NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LD
+E3NTc1NjE1NThdfQ==
 -->
