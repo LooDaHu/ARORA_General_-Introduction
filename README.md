@@ -227,13 +227,13 @@ If you have any question about the above content, be free to contact me.
 
 This is just a simple tutorial about how to fast working on this framework if you want to learn more and deep, please refer [API GUIDE](https://www.django-rest-framework.org/)
 
-What you know about [Django](https://docs.djangoproject.com/en/2.2/) is also able to use in the  because of this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirements, using Django is an alternative way to try. 
+What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjE4MzY4MSwtMTc1MDAxNjkwOCwtMT
-gwMDQzMzk4NSwtMTUzNDY5OTk5MSwtMjA4OTQzNjUyMCwxNzEw
-ODkxODM3LDkyODczNTk5OCwtOTY3MzYzMzYsMjg0MDY1NzM2LC
-0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcsMTg2NDY2
-MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5MS
-wxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0NjUsLTE3
-MjU1NDc1NTldfQ==
+eyJoaXN0b3J5IjpbLTE1MTQ0MTkwNjksLTMwMjE4MzY4MSwtMT
+c1MDAxNjkwOCwtMTgwMDQzMzk4NSwtMTUzNDY5OTk5MSwtMjA4
+OTQzNjUyMCwxNzEwODkxODM3LDkyODczNTk5OCwtOTY3MzYzMz
+YsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0
+MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwOD
+IsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIw
+MzczMzM0NjVdfQ==
 -->
