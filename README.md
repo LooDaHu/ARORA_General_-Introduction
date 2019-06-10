@@ -210,8 +210,7 @@ views.py --. --> response
  - Building proper models is the first and key step to create a good
    application.
   
- - Be care of your every step, small problem, like a typo, could take
-   much time.
+ - Typo could be a problem when you code due to there are a lot of functions accepting the string arguments and your IDE may not be able to find them in time. And the problem like this could waste your life. So, be careful of the details like this in your code. 
 
    
 
@@ -231,11 +230,11 @@ This is just a simple tutorial how to fast set up, if you want to learn more and
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAwMTY5MDgsLTE4MDA0MzM5ODUsLT
-E1MzQ2OTk5OTEsLTIwODk0MzY1MjAsMTcxMDg5MTgzNyw5Mjg3
-MzU5OTgsLTk2NzM2MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLD
-g0NDgxMDIwMiwtNDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4
-MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5Ny
-wtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3
-NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTI2NDcwODcxOCwtMTc1MDAxNjkwOCwtMT
+gwMDQzMzk4NSwtMTUzNDY5OTk5MSwtMjA4OTQzNjUyMCwxNzEw
+ODkxODM3LDkyODczNTk5OCwtOTY3MzYzMzYsMjg0MDY1NzM2LC
+0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcsMTg2NDY2
+MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5MS
+wxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0NjUsLTE3
+MjU1NDc1NTldfQ==
 -->
