@@ -75,9 +75,9 @@ After we finish our code, then we do
 As you can see, there are two new files, 0001_initial.py and db.sqlite3. 
 	![enter image description here](https://lh3.googleusercontent.com/lIksGDKRFNH-jMQKk02O0J87uAGkRs1XEBNReSGvu6fr2-7cU1WZE1D7coSVRUQvcc6evV9MEK8)
 
- - You can regard 0001_initial.py as the blueprint of the database.
+ - You can regard 0001_initial.py as the blueprint of your database.
  
- - db.sqlite3 is the brand new database created by the blueprint.
+ - db.sqlite3 is the brand new database created by the blueprint. A single file is a database, which shows "lite" here. 
  - We use SQLite3 as our database by default. Of course, you can use
    other database you want, and your database setting is at *< root_dir>/ main_application/setting.py* .  
     
@@ -97,11 +97,11 @@ But we haven't done yet. Let's do
 
 After you see a series of OK, our model and database part is done.
 
-Note: If you have a drastic change on your model and you meet a weired and tough bug when you try modify your database by using **migrate**, I do recommand you delete all migration files and db.sqlite3 which is database. And try it again.  
+Note: If you have a drastic change on your models and you meet a weired and tough bug when you try modify your database by using **migrate**, I do recommand you delete all migration files and db.sqlite3 which is database in the project. And try to rebuild everything again.  
 
 ## Serializers.py
 
-Now we need a tool that can transform our data between model and JSON format.
+Now, we need a tool which is able to transform our data between models and JSON format data.
 Django REST Framework provides serializers to do this job. What we need to do is extend the built-in serializer to fit our requirement.
 
 > Serializers allow complex data such as querysets and model instances
@@ -124,17 +124,17 @@ Let's start with our code.
 [Click here to SERIALIZERS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/serializers.py)
 
 ## views.py 
-Now, we are doing the core of an application. views.py determines how you RESTful server response the request.
+Now, we are doing the core of the application, views.py, determines how you RESTful server responses the request.
 
-There are different ways to write the code of this part, from low customized to highly customized. Here, I just provide a way which I think should be easy and clear.
+The way to code this part is highly flexible. In a word, all roads lead to Rome. Here, I just provide a way which I think should be easy and clear.
 
 [Click here to VIEWS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/views.py)
 
 
 ## urls.py 
-Though we have done the core part of our application, but there is still no route to access our server. So, we have to set urls for our server.
+Though we have done the core part of our application, there is still no route to access our server. So, we have to set URLs up for our server.
 
-REMEMBER: Do not forget add the urls of the application into the main application, which should be djangorest_example in this case.
+REMEMBER: Do not forget to add the URLs of the applications into the main application, The main application should djangorest_example in this case.
 
 < root_dir >/ djangorest_example/ urls.py 
 
@@ -150,13 +150,13 @@ REMEMBER: Do not forget add the urls of the application into the main applicatio
 [Click here to URLS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/urls.py)
 
 ## admin.py
-We alomost done. But we want our admin site knows we have a new application. So, we need a register in admin.py.
+We are almost done. But we want our admin site knows we have a new application. So, we need a register in admin.py.
 
 [Click here to ADMIN.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/admin.py)
 
 ## Test
 
- 1. Let's try create a new Model1 object by using [POSTMAN](https://www.getpostman.com/)
+1. Let's try to create a new Model1 object by using [POSTMAN](https://www.getpostman.com/)
 2. Oops, someting is wrong here, it shows model2_id : object does not exist, which means our Model1Serializer works well at this point. Due to model2 _id is a foreign key of model1 and related to table Model2.
 ![enter image description here](https://lh3.googleusercontent.com/L6j0qq2pbNddCVhezB7x2lAUAtw-x91rZVeNAxpVcF3yL61yC7f3QZ4kIupze3QNqI_GcGoD1uc)
  
@@ -167,7 +167,7 @@ We alomost done. But we want our admin site knows we have a new application. So,
 ![enter image description here](https://lh3.googleusercontent.com/uawP4QPa_gcs7bPtk-pkpRBla_lptdI6LRxtidUmIEVZYk-yKkLe3_fpzMYld1VjWgsg9Vp62HQ)
 ## Summary 
 
- - Here are processing figure to show how it works.
+ - Here are processings figure to show how it works.
 
 GET 
 ```mermaid
