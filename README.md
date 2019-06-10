@@ -170,7 +170,7 @@ We are almost done. But we want our admin site knows we have a new application. 
 ![enter image description here](https://lh3.googleusercontent.com/uawP4QPa_gcs7bPtk-pkpRBla_lptdI6LRxtidUmIEVZYk-yKkLe3_fpzMYld1VjWgsg9Vp62HQ)
 ## Summary 
 
- - Here are processings figure to show how it works.
+ - Here is processing figure to show how it works.
 
 GET 
 ```mermaid
@@ -231,7 +231,7 @@ This is just a simple tutorial how to fast set up, if you want to learn more and
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzk4NjQ4NSwtMTgwMDQzMzk4NSwtMT
+eyJoaXN0b3J5IjpbMjAyOTA2NTMxMiwtMTgwMDQzMzk4NSwtMT
 UzNDY5OTk5MSwtMjA4OTQzNjUyMCwxNzEwODkxODM3LDkyODcz
 NTk5OCwtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsOD
 Q0ODEwMjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgz
