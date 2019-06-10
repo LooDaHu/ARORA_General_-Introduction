@@ -207,7 +207,7 @@ Database -- result back success/failure --> views.py
 views.py --. --> response
 ```
 
- - Build proper model is the first key step to create a good
+ - Building proper models is the first and key step to create a good
    application.
   
  - Be care of your every step, small problem, like a typo, could take
@@ -231,11 +231,11 @@ This is just a simple tutorial how to fast set up, if you want to learn more and
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTA2NTMxMiwtMTgwMDQzMzk4NSwtMT
-UzNDY5OTk5MSwtMjA4OTQzNjUyMCwxNzEwODkxODM3LDkyODcz
-NTk5OCwtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsOD
-Q0ODEwMjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgz
-NTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC
-0xNDcxMjY1OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1
-NzU2MTU1OF19
+eyJoaXN0b3J5IjpbLTE3NTAwMTY5MDgsLTE4MDA0MzM5ODUsLT
+E1MzQ2OTk5OTEsLTIwODk0MzY1MjAsMTcxMDg5MTgzNyw5Mjg3
+MzU5OTgsLTk2NzM2MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLD
+g0NDgxMDIwMiwtNDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4
+MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5Ny
+wtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3
+NTc1NjE1NThdfQ==
 -->
