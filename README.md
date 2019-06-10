@@ -225,16 +225,16 @@ If you have any question about the above content, be free to contact me.
 >Github: @LooDaHu
 >WeChat: a651120561
 
-This is just a simple tutorial about how to fast set up, if you want to learn more and deep, please refer [API GUIDE](https://www.django-rest-framework.org/)
+This is just a simple tutorial about how to fast working on this framework if you want to learn more and deep, please refer [API GUIDE](https://www.django-rest-framework.org/)
 
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDEzNzY2MywtMTc1MDAxNjkwOCwtMT
-gwMDQzMzk4NSwtMTUzNDY5OTk5MSwtMjA4OTQzNjUyMCwxNzEw
-ODkxODM3LDkyODczNTk5OCwtOTY3MzYzMzYsMjg0MDY1NzM2LC
-0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcsMTg2NDY2
-MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5MS
-wxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LDIwMzczMzM0NjUsLTE3
-MjU1NDc1NTldfQ==
+eyJoaXN0b3J5IjpbNjkzODQ3MjkwLC0xNzUwMDE2OTA4LC0xOD
+AwNDMzOTg1LC0xNTM0Njk5OTkxLC0yMDg5NDM2NTIwLDE3MTA4
+OTE4MzcsOTI4NzM1OTk4LC05NjczNjMzNiwyODQwNjU3MzYsLT
+M5Mzk5NDczMCw4NDQ4MTAyMDIsLTQ2NzQyNTI2NywxODY0NjYw
+Njc0LDE5MjM1ODM1NjYsMTMyNTA1NjA4MiwxMDIwMDg0MzkxLD
+E3MTAwMjAxOTcsLTE0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMTcy
+NTU0NzU1OV19
 -->
