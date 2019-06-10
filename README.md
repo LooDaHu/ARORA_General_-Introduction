@@ -62,10 +62,10 @@ A((example1)) -- - --> H(view.py *)
 ```
 Note:
  1. The file structure of the application should like this figure. And please remeber those  files are vital for the application and do not delete them casually, except migration files. And I will explain why migration files can be deleted at later content. 
- 2. There are five files with STAR notation need us to work on. Let's get into there one by one. 
+ 2. There are five files with STAR notation need us to work on. Let's handle them one by one. 
 
 ## Models.py
-We can create our models at models.py. There can be more than one model in the models.py, which means there can be more than one model in an application.
+We can create our models in models.py. There can be more than one model in models.py, which means there can be more than one model in an application.
 
 Basically, Django database is based on ORM, this is to say, your database structure is determined by your code in model.py.
 
@@ -231,10 +231,11 @@ This is just a simple tutorial how to fast set up, if you want to learn more and
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjM3NTE2NiwtMTUzNDY5OTk5MSwtMj
-A4OTQzNjUyMCwxNzEwODkxODM3LDkyODczNTk5OCwtOTY3MzYz
-MzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Nj
-c0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2LDEzMjUwNTYw
-ODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcxMjY1OTI5LD
-IwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1NzU2MTU1OF19
+eyJoaXN0b3J5IjpbLTE4MDA0MzM5ODUsLTE1MzQ2OTk5OTEsLT
+IwODk0MzY1MjAsMTcxMDg5MTgzNyw5Mjg3MzU5OTgsLTk2NzM2
+MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtND
+Y3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2
+MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOS
+wyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+
 -->
