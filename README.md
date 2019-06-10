@@ -80,7 +80,7 @@ As you can see, there are two new files, 0001_initial.py and db.sqlite3.
 
  - You can regard 0001_initial.py as the blueprint of your database.
  
- - db.sqlite3 is the brand new database created by the blueprint. A single file is a database, which shows "lite" here. 
+ - db.sqlite3 is the brand new database created by the blueprint. This single file is a database, which shows the meaning of Lite at this point. 
  - We use SQLite3 as our database by default. Of course, you can use
    other database you want, and your database setting is at *< root_dir>/ main_application/setting.py* .  
     
@@ -231,11 +231,11 @@ This is just a simple tutorial how to fast set up, if you want to learn more and
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA0MzM5ODUsLTE1MzQ2OTk5OTEsLT
-IwODk0MzY1MjAsMTcxMDg5MTgzNyw5Mjg3MzU5OTgsLTk2NzM2
-MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtND
-Y3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2
-MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOS
-wyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
-
+eyJoaXN0b3J5IjpbLTE5MzgwNzQ2NjYsLTE4MDA0MzM5ODUsLT
+E1MzQ2OTk5OTEsLTIwODk0MzY1MjAsMTcxMDg5MTgzNyw5Mjg3
+MzU5OTgsLTk2NzM2MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLD
+g0NDgxMDIwMiwtNDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4
+MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5Ny
+wtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3
+NTc1NjE1NThdfQ==
 -->
