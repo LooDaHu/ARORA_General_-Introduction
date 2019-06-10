@@ -100,7 +100,7 @@ But we haven't done yet. Let's do
 
 After you see a series of OK, our model and database part is done.
 
-Note: If you have a drastic change on your models and you meet a weird and tough bug when you try to modify your database by using **migrate**, I do recommand you delete all migration files and db.sqlite3 which is database in the project. And try to rebuild everything again.  
+Note: If you have a drastic change on your models and you meet a weird and tough bug when you try to modify your database by using **migrate**, I do recommand you delete all migration files and db.sqlite3 the database. And try to rebuild everything again.  
 
 ## Serializers.py
 
@@ -231,11 +231,11 @@ This is just a simple tutorial how to fast set up, if you want to learn more and
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNzUxMTg4LC0xODAwNDMzOTg1LC0xNT
-M0Njk5OTkxLC0yMDg5NDM2NTIwLDE3MTA4OTE4MzcsOTI4NzM1
-OTk4LC05NjczNjMzNiwyODQwNjU3MzYsLTM5Mzk5NDczMCw4ND
-Q4MTAyMDIsLTQ2NzQyNTI2NywxODY0NjYwNjc0LDE5MjM1ODM1
-NjYsMTMyNTA1NjA4MiwxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLT
-E0NzEyNjU5MjksMjAzNzMzMzQ2NSwtMTcyNTU0NzU1OSwxNzU3
-NTYxNTU4XX0=
+eyJoaXN0b3J5IjpbLTQyMzk4NjQ4NSwtMTgwMDQzMzk4NSwtMT
+UzNDY5OTk5MSwtMjA4OTQzNjUyMCwxNzEwODkxODM3LDkyODcz
+NTk5OCwtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsOD
+Q0ODEwMjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgz
+NTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC
+0xNDcxMjY1OTI5LDIwMzczMzM0NjUsLTE3MjU1NDc1NTksMTc1
+NzU2MTU1OF19
 -->
