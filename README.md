@@ -225,12 +225,12 @@ If you have any question about the above content, be free to contact me.
 >Github: @LooDaHu
 >WeChat: a651120561
 
-This is just a simple tutorial how to fast set up, if you want to learn more and deep, please refer [API GUIDE](https://www.django-rest-framework.org/)
+This is just a simple tutorial about how to fast set up, if you want to learn more and deep, please refer [API GUIDE](https://www.django-rest-framework.org/)
 
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDcwODcxOCwtMTc1MDAxNjkwOCwtMT
+eyJoaXN0b3J5IjpbMjExMDEzNzY2MywtMTc1MDAxNjkwOCwtMT
 gwMDQzMzk4NSwtMTUzNDY5OTk5MSwtMjA4OTQzNjUyMCwxNzEw
 ODkxODM3LDkyODczNTk5OCwtOTY3MzYzMzYsMjg0MDY1NzM2LC
 0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcsMTg2NDY2
