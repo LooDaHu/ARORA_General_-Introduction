@@ -227,10 +227,10 @@ If you have any question about the above content, be free to contact me.
 
 This is just a simple tutorial about how to fast working on this framework if you want to learn more and deep, please refer [API GUIDE](https://www.django-rest-framework.org/)
 
-Because Django_REST_framework is based on Django, if you feel not good or proper to use some content in the Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
+What you learn about [Django](https://docs.djangoproject.com/en/2.2/) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTI3ODc1MSwtMTc1MDAxNjkwOCwtMT
+eyJoaXN0b3J5IjpbLTMzNjc1MTI0MywtMTc1MDAxNjkwOCwtMT
 gwMDQzMzk4NSwtMTUzNDY5OTk5MSwtMjA4OTQzNjUyMCwxNzEw
 ODkxODM3LDkyODczNTk5OCwtOTY3MzYzMzYsMjg0MDY1NzM2LC
 0zOTM5OTQ3MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcsMTg2NDY2
