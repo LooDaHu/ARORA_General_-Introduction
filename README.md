@@ -41,7 +41,7 @@ Here is a [tutorial](https://wsvincent.com/django-rest-framework-tutorial/) coul
 ## FIie structure and explanation
 After we have done the set-up, the whole project should look like this.
 ![enter image description here](https://lh3.googleusercontent.com/CAbsN_SgS47Dvu1yrGXq6M68HYC0CsG8ET-WWknex3Qeukezihxp_NPHA59Mxm6B2GSCYJ0vRrY) 
-And don't forget to create serializers.py and urls.py manually under every application.
+And don't forget to create serializers.py and urls.py manually in the every application.
 
 Now, 
 Let's take example1, one of our created application, as an example.
@@ -231,10 +231,11 @@ This is just a simple tutorial how to fast set up, if you want to learn more and
 Because Django_REST_framework is based on Django, if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ2OTk5OTEsLTIwODk0MzY1MjAsMT
-cxMDg5MTgzNyw5Mjg3MzU5OTgsLTk2NzM2MzM2LDI4NDA2NTcz
-NiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1MjY3LDE4Nj
-Q2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLDEwMjAwODQz
-OTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3MzMzNDY1LC
-0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+eyJoaXN0b3J5IjpbLTE3OTEzODUyNjcsLTE1MzQ2OTk5OTEsLT
+IwODk0MzY1MjAsMTcxMDg5MTgzNyw5Mjg3MzU5OTgsLTk2NzM2
+MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtND
+Y3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2
+MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOS
+wyMDM3MzMzNDY1LC0xNzI1NTQ3NTU5LDE3NTc1NjE1NThdfQ==
+
 -->
