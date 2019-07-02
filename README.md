@@ -154,7 +154,7 @@ REMEMBER: Do not forget to add the URLs of the applications into the main applic
 [Click here to URLS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/urls.py)
 
 ## admin.py
-We are almost done. But we want our admin site knows we have a new application. So, we need a register in admin.py. Now, we can modify 
+We are almost done. But we want our admin site knows we have a new application. So, we need a register in admin.py. Now, we can modify the content in our database at the back-end.
 
 [Click here to ADMIN.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/admin.py)
 
@@ -230,11 +230,11 @@ This is just a simple tutorial about how to fast working on this framework if yo
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1ODc2MDIxLDgyMDA2NjI4OSwtMzAyMT
-gzNjgxLC0xNzUwMDE2OTA4LC0xODAwNDMzOTg1LC0xNTM0Njk5
-OTkxLC0yMDg5NDM2NTIwLDE3MTA4OTE4MzcsOTI4NzM1OTk4LC
-05NjczNjMzNiwyODQwNjU3MzYsLTM5Mzk5NDczMCw4NDQ4MTAy
-MDIsLTQ2NzQyNTI2NywxODY0NjYwNjc0LDE5MjM1ODM1NjYsMT
-MyNTA1NjA4MiwxMDIwMDg0MzkxLDE3MTAwMjAxOTcsLTE0NzEy
-NjU5MjldfQ==
+eyJoaXN0b3J5IjpbMTkzMTM4MTExOCw4MjAwNjYyODksLTMwMj
+E4MzY4MSwtMTc1MDAxNjkwOCwtMTgwMDQzMzk4NSwtMTUzNDY5
+OTk5MSwtMjA4OTQzNjUyMCwxNzEwODkxODM3LDkyODczNTk5OC
+wtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0ODEw
+MjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2LD
+EzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcx
+MjY1OTI5XX0=
 -->
