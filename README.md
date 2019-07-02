@@ -161,7 +161,7 @@ We are almost done. But we want our admin site knows we have a new application. 
 ## Test
 
 1. Let's try to create a new Model1 object by using [POSTMAN](https://www.getpostman.com/)
-2. Oops, someting is wrong here, it shows model2_id : object does not exist, which means our Model1Serializer works well at this point. Due to model2 _id is a foreign key of model1 and related to table Model2.
+2. Oops, something is wrong here, it shows model2_id : object does not exist, which means our Model1Serializer works well at this point. Due to model2 _id is a foreign key of model1 and related to table Model2.
 ![enter image description here](https://lh3.googleusercontent.com/L6j0qq2pbNddCVhezB7x2lAUAtw-x91rZVeNAxpVcF3yL61yC7f3QZ4kIupze3QNqI_GcGoD1uc)
  
 3. Let's create a new Model2 object by admin site. And try to create Model1 object again.
@@ -230,11 +230,11 @@ This is just a simple tutorial about how to fast working on this framework if yo
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzQ5NTA4MSw4MjAwNjYyODksLTMwMj
-E4MzY4MSwtMTc1MDAxNjkwOCwtMTgwMDQzMzk4NSwtMTUzNDY5
-OTk5MSwtMjA4OTQzNjUyMCwxNzEwODkxODM3LDkyODczNTk5OC
-wtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0ODEw
-MjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2LD
-EzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcx
-MjY1OTI5XX0=
+eyJoaXN0b3J5IjpbOTM3NjkzODMsODIwMDY2Mjg5LC0zMDIxOD
+M2ODEsLTE3NTAwMTY5MDgsLTE4MDA0MzM5ODUsLTE1MzQ2OTk5
+OTEsLTIwODk0MzY1MjAsMTcxMDg5MTgzNyw5Mjg3MzU5OTgsLT
+k2NzM2MzM2LDI4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIw
+MiwtNDY3NDI1MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMz
+I1MDU2MDgyLDEwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2
+NTkyOV19
 -->
