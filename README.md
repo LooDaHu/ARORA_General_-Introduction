@@ -128,7 +128,7 @@ Let's start with our code.
 [Click here to SERIALIZERS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/serializers.py)
 
 ## views.py 
-Now, we are doing the core of the application, views.py, determines how you RESTful server responses the request.
+Now, we are doing the core of the application, views.py, determines how your RESTful server responses the request.
 
 The way to code this part is highly flexible. In a word, all roads lead to Rome. Here, I just provide a way which I think should be easy and clear.
 
@@ -230,7 +230,7 @@ This is just a simple tutorial about how to fast working on this framework if yo
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzY0ODA4MSw4MjAwNjYyODksLTMwMj
+eyJoaXN0b3J5IjpbMjA4NzQ5NTA4MSw4MjAwNjYyODksLTMwMj
 E4MzY4MSwtMTc1MDAxNjkwOCwtMTgwMDQzMzk4NSwtMTUzNDY5
 OTk5MSwtMjA4OTQzNjUyMCwxNzEwODkxODM3LDkyODczNTk5OC
 wtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0ODEw
