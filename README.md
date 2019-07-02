@@ -79,7 +79,7 @@ After we finish our code, then we do
 As you can see, there are two new files, 0001_initial.py and db.sqlite3. 
 	![enter image description here](https://lh3.googleusercontent.com/lIksGDKRFNH-jMQKk02O0J87uAGkRs1XEBNReSGvu6fr2-7cU1WZE1D7coSVRUQvcc6evV9MEK8)
 
- - You can regard 0001_initial.py as the blueprint of your database.
+ - You can regard 0001_initial.py as the blueprint of your database. And this blueprint is based on the code in your model.py
  
  - db.sqlite3 is the brand new database created by the blueprint. This single file is a database, which shows the meaning of Lite. 
  - We use SQLite3 as our database by default. Of course, you can use
@@ -230,7 +230,7 @@ This is just a simple tutorial about how to fast working on this framework if yo
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Nzg2Mjk1OSw4MjAwNjYyODksLTMwMj
+eyJoaXN0b3J5IjpbLTIzNzY0ODA4MSw4MjAwNjYyODksLTMwMj
 E4MzY4MSwtMTc1MDAxNjkwOCwtMTgwMDQzMzk4NSwtMTUzNDY5
 OTk5MSwtMjA4OTQzNjUyMCwxNzEwODkxODM3LDkyODczNTk5OC
 wtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0ODEw
