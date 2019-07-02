@@ -49,7 +49,7 @@ Let's take example1, one of our created application, as an example.
 
 ```mermaid
 graph LR
-A((example1)) -- - --> B(migrarions) 
+A((example1)) -- - --> B(migrations) 
 B(migrarions) -- - --> C[__init__.py]
 B(migrarions) -- - --> D{Other migration files}
 A((example1)) -- - --> E(__init__.py) 
@@ -230,11 +230,11 @@ This is just a simple tutorial about how to fast working on this framework if yo
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMDY2Mjg5LC0zMDIxODM2ODEsLTE3NT
-AwMTY5MDgsLTE4MDA0MzM5ODUsLTE1MzQ2OTk5OTEsLTIwODk0
-MzY1MjAsMTcxMDg5MTgzNyw5Mjg3MzU5OTgsLTk2NzM2MzM2LD
-I4NDA2NTczNiwtMzkzOTk0NzMwLDg0NDgxMDIwMiwtNDY3NDI1
-MjY3LDE4NjQ2NjA2NzQsMTkyMzU4MzU2NiwxMzI1MDU2MDgyLD
-EwMjAwODQzOTEsMTcxMDAyMDE5NywtMTQ3MTI2NTkyOSwyMDM3
-MzMzNDY1XX0=
+eyJoaXN0b3J5IjpbMTU5Nzg2Mjk1OSw4MjAwNjYyODksLTMwMj
+E4MzY4MSwtMTc1MDAxNjkwOCwtMTgwMDQzMzk4NSwtMTUzNDY5
+OTk5MSwtMjA4OTQzNjUyMCwxNzEwODkxODM3LDkyODczNTk5OC
+wtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0ODEw
+MjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2LD
+EzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcx
+MjY1OTI5XX0=
 -->
