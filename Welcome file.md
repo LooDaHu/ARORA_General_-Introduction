@@ -217,7 +217,7 @@ views.py --. --> response
    
 
 # Retrofit2 
-The Retrofit2 em
+As the offical site of the Retrofit says, Retrofit2 is a HTTP Client 
 
 # Contact
 If you have any question about the above content, be free to contact me.
@@ -460,5 +460,5 @@ This is just a simple tutorial about how to fast working on this framework if yo
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTA2MTk4XX0=
+eyJoaXN0b3J5IjpbLTIwNDYxNjQyLC04NTkwNjE5OF19
 -->
