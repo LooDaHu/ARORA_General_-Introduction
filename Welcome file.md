@@ -226,7 +226,7 @@ If you have any question about the above content, be free to contact me.
 >Github: @LooDaHu
 >WeChat: a651120561
 
-This is just a simple tutorial about how to fast working on this framework if you want to learn more and deep, please refer [Django-rest-framework API GUIDE](https://www.django-rest-framework.org/). As for Retrofit2, I would not recommand you use 
+This is just a simple tutorial about how to fast working on this framework if you want to learn more and deep, please refer [Django-rest-framework API GUIDE](https://www.django-rest-framework.org/). As for Retrofit2, I would not recommand you to learn their offical document since their document is too simple to not cover the essential part.
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. # Welcome to Tutorial!
 
@@ -460,6 +460,6 @@ This is just a simple tutorial about how to fast working on this framework if yo
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNjAzMDAzLC0xODkzMzg4MjM1LC04NT
-kwNjE5OF19
+eyJoaXN0b3J5IjpbMTc3NjMyMjkyOCwtMTg5MzM4ODIzNSwtOD
+U5MDYxOThdfQ==
 -->
