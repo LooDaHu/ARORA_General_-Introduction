@@ -217,7 +217,7 @@ views.py --. --> response
    
 
 # Retrofit2 
-As the offical site of the Retrofit says, Retrofit2 is a HTTP client that is embedded into your Android application. In this part, we will discuss 
+As the offical site of the Retrofit says, Retrofit2 is a HTTP client that is embedded into your Android application. In this part, we will discuss how to use Retrofit2 to commuicate with our server and implement the common HTTP request method. 
 
 # Contact
 If you have any question about the above content, be free to contact me.
@@ -460,5 +460,5 @@ This is just a simple tutorial about how to fast working on this framework if yo
 
 What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM4ODM3NjUsLTg1OTA2MTk4XX0=
+eyJoaXN0b3J5IjpbNDYzNTQ5Mzk1LC04NTkwNjE5OF19
 -->
