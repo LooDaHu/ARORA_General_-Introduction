@@ -69,7 +69,7 @@ Note:
 ## Models.py
 We can create our models in models.py. There can be more than one model in models.py, which means there can be more than one model in an application.
 
-Basically, Django database is based on ORM, this is to say, your database structure is determined by your code in model.py.
+Basically, Django database is based on ORM, this is simlply to say, your database structure is determined by your code in model.py.
 
 Let's bulid our model.
 [Click here to MODEL.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/models.py)
@@ -235,6 +235,6 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzQ2MjI3OSwtMTg5MzM4ODIzNSwtOD
+eyJoaXN0b3J5IjpbMjAyODcyNzQ4NywtMTg5MzM4ODIzNSwtOD
 U5MDYxOThdfQ==
 -->
