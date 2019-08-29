@@ -42,14 +42,14 @@ Here is a [tutorial](https://wsvincent.com/django-rest-framework-tutorial/) coul
 After we have done the set-up, the whole project should look like this.
 ![enter image description here](https://lh3.googleusercontent.com/CAbsN_SgS47Dvu1yrGXq6M68HYC0CsG8ET-WWknex3Qeukezihxp_NPHA59Mxm6B2GSCYJ0vRrY) 
 
-And don't forget to create serializers.py and urls.py manually in every application.
+And don't forget to create serializers.py and urls.py manually inunder every application.
 
 Now, 
 Let's take example1, one of our created application, as an example.
 
 ```mermaid
 graph LR
-A((example1)) -- - --> B(migrations) 
+A((example1)) -- - --> B(migratrions) 
 B(migrarions) -- - --> C[__init__.py]
 B(migrarions) -- - --> D{Other migration files}
 A((example1)) -- - --> E(__init__.py) 
@@ -62,11 +62,11 @@ A((example1)) -- - --> J(urls.py *)
 A((example1)) -- - --> H(view.py *)
 ```
 Note:
- 1. The file structure of the application should like this figure. And please remeber those  files are vital for the application and do not delete them casually, except migration files. And I will explain why migration files can be deleted at later content. 
- 2. There are five files with STAR notation need us to work on. Let's handle them one by one. 
+ 1. The file structure of the application should like this figure. And please remeber those 		   files are vital for the application, and do not delete them casually, except migration files. And I will explain why migration files can be deleted at later content. 
+ 2. There are five files with STAR notation need us to work on. Let's handleget into themre one by one. 
 
 ## Models.py
-We can create our models in models.py. There can be more than one model in models.py, which means there can be more than one model in an application.
+We can create our models inat models.py. There can be more than one model in the models.py, which means there can be more than one model in an application.
 
 Basically, Django database is based on ORM, this is to say, your database structure is determined by your code in model.py.
 
@@ -79,7 +79,7 @@ After we finish our code, then we do
 As you can see, there are two new files, 0001_initial.py and db.sqlite3. 
 	![enter image description here](https://lh3.googleusercontent.com/lIksGDKRFNH-jMQKk02O0J87uAGkRs1XEBNReSGvu6fr2-7cU1WZE1D7coSVRUQvcc6evV9MEK8)
 
- - You can regard 0001_initial.py as the blueprint of your database. And this blueprint is based on the code in your model.py
+ - You can regard 0001_initial.py as the blueprint of your database. And this blueprint is based on the code in your model.pythe database.
  
  - db.sqlite3 is the brand new database created by the blueprint. This single file is a database, which shows the meaning of Lite. 
  - We use SQLite3 as our database by default. Of course, you can use
@@ -101,11 +101,11 @@ But we haven't done yet. Let's do
 
 After you see a series of OK, our model and database part is done.
 
-Note: If you have a drastic change on your models and you meet a weird and tough bug when you try to modify your database by using **migrate**, I do recommand you delete all migration files and db.sqlite3 the database. And try to rebuild everything again.  
+Note: If you have a drastic change on your models and you meet a weired and tough bug when you try to modify your database by using **migrate**, I do recommand you delete all migration files and db.sqlite3 thewhich is database. And try ito rebuild everything again.  
 
 ## Serializers.py
 
-Now, we need a tool which is able to transform our data between models and JSON format data.
+Now, we need a tool which is able tothat can transform our data between models and JSON format data.
 Django REST Framework provides serializers to do this job. What we need to do is extend the built-in serializer to fit our requirement.
 
 > Serializers allow complex data such as querysets and model instances
@@ -128,17 +128,17 @@ Let's start with our code.
 [Click here to SERIALIZERS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/serializers.py)
 
 ## views.py 
-Now, we are doing the core of the application, views.py, determines how your RESTful server responses the request.
+Now, we are doing the core of thean application,. views.py, determines how your RESTful server responses the request.
 
-The way to code this part is highly flexible. In a word, all roads lead to Rome. Here, I just provide a way which I think should be easy and clear.
+There are different ways to write the code of this part is highly flexible. In a word, all roads lead to Rome, from low customized to highly customized. Here, I just provide a way which I think should be easy and clear.
 
 [Click here to VIEWS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/views.py)
 
 
 ## urls.py 
-Though we have done the core part of our application, there is still no route to access our server. So, we have to set URLs up for our server.
+Though we have done the core part of our application, but there is still no route to access our server. So, we have to set URLs upurls for our server.
 
-REMEMBER: Do not forget to add the URLs of the applications into the main application, The main application should djangorest_example in this case.
+REMEMBER: Do not forget to add the URLurls of the applications into the main application, The main applicationwhich should be djangorest_example in this case.
 
 < root_dir >/ djangorest_example/ urls.py 
 
@@ -154,24 +154,24 @@ REMEMBER: Do not forget to add the URLs of the applications into the main applic
 [Click here to URLS.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/urls.py)
 
 ## admin.py
-We are almost done. But we want our admin site knows we have a new application. So, we need a register in admin.py. Now, we can modify the content in our database at the back-end.
+We are alomost done. But we want our admin site knows we have a new application. So, we need a register in admin.py. Now, we can modify the content in our database at the back-end.
 
 [Click here to ADMIN.PY](https://github.com/LooDaHu/djangorestframework_example/blob/master/example1/admin.py)
 
 ## Test
 
-1. Let's try to create a new Model1 object by using [POSTMAN](https://www.getpostman.com/)
+ 1. Let's try to create a new Model1 object by using [POSTMAN](https://www.getpostman.com/)
 2. Oops, something is wrong here, it shows model2_id : object does not exist, which means our Model1Serializer works well at this point. Due to model2 _id is a foreign key of model1 and related to table Model2.
 ![enter image description here](https://lh3.googleusercontent.com/L6j0qq2pbNddCVhezB7x2lAUAtw-x91rZVeNAxpVcF3yL61yC7f3QZ4kIupze3QNqI_GcGoD1uc)
  
-3. Let's create a new Model2 object by admin site. And try to create Model1 object again.
+3. Let's create a new Model2 object by admin site. And try to create Model1 objecit again.
 ![enter image description here](https://lh3.googleusercontent.com/QLGA7_LmeEvw9uFEVNF_bcGuVM3ITVd2wNjXiVAdB3QFdchWlPdRq9bpYck3Wwh1LayhGq1ThLA)
 
 4. It seems works well. Let's double check it by GET. It returns the expected result.
 ![enter image description here](https://lh3.googleusercontent.com/uawP4QPa_gcs7bPtk-pkpRBla_lptdI6LRxtidUmIEVZYk-yKkLe3_fpzMYld1VjWgsg9Vp62HQ)
 ## Summary 
 
- - Here is processing figure to show how it works.
+ - Here isare processing figure to show how it works.
 
 GET 
 ```mermaid
@@ -211,7 +211,8 @@ views.py --. --> response
  - Building proper models is the first and key step to create a good
    application.
   
- - Typo could be a problem when you code due to there are a lot of functions accepting the string arguments and your IDE may not be able to find them in time. And the problem like this could waste your life. So, be careful of the details like this in your code. 
+ - Typo could be a problem when you code due to there are a lot of functions accepting the string arguments and your IDE may not be able to find them in time. And theBe care of your every step, small problem, like this could waste your life. So, be careful of the details like this in your coda typo, could take
+   much time. 
 
    
 
@@ -226,15 +227,16 @@ If you have any question about the above content, be free to contact me.
 >Github: @LooDaHu
 >WeChat: a651120561
 
-This is just a simple tutorial about how to fast working on this framework if you want to learn more and deep, please refer [API GUIDE](https://www.django-rest-framework.org/)
+This is just a simple tutorial about how to fast working on this frameworkset up, if you want to learn more and deep, please refer [API GUIDE](https://www.django-rest-framework.org/)
 
-What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you use Django-RESTful framework because this framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. 
+What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also able to use on the development when you Because Django-_RESTful framework because this _framework is based on the Django. Sometimes, if you think the built-in functions in this framework is not good to use or not fit your requirement, using Django is an alternative way to try. , if you feel not good enough for Django_REST_framework, using [Django](https://docs.djangoproject.com/en/2.2/) is a good option to develop your code.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTM4MTExOCw4MjAwNjYyODksLTMwMj
-E4MzY4MSwtMTc1MDAxNjkwOCwtMTgwMDQzMzk4NSwtMTUzNDY5
-OTk5MSwtMjA4OTQzNjUyMCwxNzEwODkxODM3LDkyODczNTk5OC
-wtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3MzAsODQ0ODEw
-MjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOTIzNTgzNTY2LD
-EzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIwMTk3LC0xNDcx
-MjY1OTI5XX0=
+eyJoaXN0b3J5IjpbNTE1MTMyODYsMTkzMTM4MTExOCw4MjAwNj
+YyODksLTMwMjE4MzY4MSwtMTc1MDAxNjkwOCwtMTgwMDQzMzk4
+NSwtMTUzNDY5OTk5MSwtMjA4OTQzNjUyMCwxNzEwODkxODM3LD
+kyODczNTk5OCwtOTY3MzYzMzYsMjg0MDY1NzM2LC0zOTM5OTQ3
+MzAsODQ0ODEwMjAyLC00Njc0MjUyNjcsMTg2NDY2MDY3NCwxOT
+IzNTgzNTY2LDEzMjUwNTYwODIsMTAyMDA4NDM5MSwxNzEwMDIw
+MTk3XX0=
 -->
