@@ -226,13 +226,7 @@ As the official site of the Retrofit says, Retrofit2 is an HTTP client that is e
 4. The figure below shows how Retrofit2 works.
 ```mermaid
 graph LR
-request -- . --> urls.py
-urls.py -- route to the method --> views.py
-views.py -- . --> models.py
-models.py -- find the ojbect --> Database
-Database -- result back --> serializers.py
-serializers.py -- serialized data/JSON --> views.py
-views.py --. --> response
+Retrofit2Client --> Server 
 ```
 
 
@@ -252,7 +246,7 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjQ2MDkyNSwtOTMyOTgwNjk4LC00NT
+eyJoaXN0b3J5IjpbLTE4NDY2MTQ1OCwtOTMyOTgwNjk4LC00NT
 Y2OTM5MDYsMjAyODcyNzQ4NywtMTg5MzM4ODIzNSwtODU5MDYx
 OThdfQ==
 -->
