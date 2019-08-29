@@ -228,7 +228,8 @@ As the official site of the Retrofit says, Retrofit2 is an HTTP client that is e
 graph LR
 A[Retrofit2Client] --data in Json--> B(Server)
 B(Server)--data in Json--> A[Retrofit2Client]
-C{models/classes}--  
+C{models/classes}--by Gson--> A[Retrofit2Client] 
+A[Retrofit2Client]   
 ```
 
 
@@ -248,7 +249,7 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ4MzQ1ODksLTkzMjk4MDY5OCwtND
-U2NjkzOTA2LDIwMjg3Mjc0ODcsLTE4OTMzODgyMzUsLTg1OTA2
-MTk4XX0=
+eyJoaXN0b3J5IjpbMTAxMDEyMDY2MSwtOTMyOTgwNjk4LC00NT
+Y2OTM5MDYsMjAyODcyNzQ4NywtMTg5MzM4ODIzNSwtODU5MDYx
+OThdfQ==
 -->
