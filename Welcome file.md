@@ -220,7 +220,9 @@ views.py --. --> response
 As the official site of the Retrofit says, Retrofit2 is an HTTP client that is embedded into your Android application. In this part, we will discuss how to use Retrofit2 to communicate with our server and implement the common HTTP request method, such as GET, POST, PATCH and so on.
 
 ## Preparation
-First of all, let's create a new Andriod application by using Andriod Studio. 
+1. First of all, let's create a new Andriod application by using Andriod Studio. 
+2. Then we need to add the dependcy of our project.
+3. Create a new package for o
 
 
 # Contact
@@ -239,6 +241,6 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDY1Njk0MSwyMDI4NzI3NDg3LC0xOD
+eyJoaXN0b3J5IjpbLTcyODczODM5NiwyMDI4NzI3NDg3LC0xOD
 kzMzg4MjM1LC04NTkwNjE5OF19
 -->
