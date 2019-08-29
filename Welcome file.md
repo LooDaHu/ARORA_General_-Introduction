@@ -223,7 +223,17 @@ As the official site of the Retrofit says, Retrofit2 is an HTTP client that is e
 1. First of all, let's create a new Andriod application by using Andriod Studio. 
 2. Then we need to add the dependcy of our project.
 3. Create two new packages for the network part of our application. one is **models**. And another is **network**.  And, of course, a good package management is the way to save your life.
-4. 
+4. The figure below shows how Retrofit2 works.
+```mermaid
+graph LR
+request -- . --> urls.py
+urls.py -- route to the method --> views.py
+views.py -- . --> models.py
+models.py -- find the ojbect --> Database
+Database -- result back --> serializers.py
+serializers.py -- serialized data/JSON --> views.py
+views.py --. --> response
+```
 
 
 # Contact
@@ -242,7 +252,7 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTYyOTc4MSwtOTMyOTgwNjk4LC00NT
+eyJoaXN0b3J5IjpbMTUyMjQ2MDkyNSwtOTMyOTgwNjk4LC00NT
 Y2OTM5MDYsMjAyODcyNzQ4NywtMTg5MzM4ODIzNSwtODU5MDYx
 OThdfQ==
 -->
