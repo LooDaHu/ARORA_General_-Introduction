@@ -226,7 +226,9 @@ As the official site of the Retrofit says, Retrofit2 is an HTTP client that is e
 4. The figure below shows how Retrofit2 works.
 ```mermaid
 graph LR
-A[Retrofit2Client] --data in Json--> B(Server) 
+A[Retrofit2Client] --data in Json--> B(Server)
+B(Server)--data in Json--> A[Retrofit2Client]
+C{models/classes}--  
 ```
 
 
@@ -246,7 +248,7 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzczNjM2OSwtOTMyOTgwNjk4LC00NT
-Y2OTM5MDYsMjAyODcyNzQ4NywtMTg5MzM4ODIzNSwtODU5MDYx
-OThdfQ==
+eyJoaXN0b3J5IjpbLTIwODQ4MzQ1ODksLTkzMjk4MDY5OCwtND
+U2NjkzOTA2LDIwMjg3Mjc0ODcsLTE4OTMzODgyMzUsLTg1OTA2
+MTk4XX0=
 -->
