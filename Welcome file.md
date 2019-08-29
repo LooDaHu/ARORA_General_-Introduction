@@ -229,7 +229,7 @@ graph LR
 A[Retrofit2Client] --data in Json--> B(Server)
 B(Server)--data in Json--> A[Retrofit2Client]
 C{models/classes}--by Gson--> A[Retrofit2Client] 
-A[Retrofit2Client]   
+A[Retrofit2Client]  --by Gson--> C{models/classes}
 ```
 
 
@@ -249,7 +249,7 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDEyMDY2MSwtOTMyOTgwNjk4LC00NT
-Y2OTM5MDYsMjAyODcyNzQ4NywtMTg5MzM4ODIzNSwtODU5MDYx
-OThdfQ==
+eyJoaXN0b3J5IjpbNDk4MzYzNzcsLTkzMjk4MDY5OCwtNDU2Nj
+kzOTA2LDIwMjg3Mjc0ODcsLTE4OTMzODgyMzUsLTg1OTA2MTk4
+XX0=
 -->
