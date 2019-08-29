@@ -230,8 +230,9 @@ A[Retrofit2Client] --data in Json--> B(Server)
 B(Server)--data in Json--> A[Retrofit2Client]
 C{models/classes}--by Gson--> A[Retrofit2Client] 
 A[Retrofit2Client]  --by Gson--> C{models/classes}
-C{models/classes} --is used by--> D((OtherPart ))
+C{models/classes} --is used by--> D((Other Part))
 ```
+
 
 
 # Contact
@@ -250,7 +251,7 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjc4NjM3OCwtOTMyOTgwNjk4LC00NT
-Y2OTM5MDYsMjAyODcyNzQ4NywtMTg5MzM4ODIzNSwtODU5MDYx
-OThdfQ==
+eyJoaXN0b3J5IjpbLTE3ODY0OTg0OTQsLTkzMjk4MDY5OCwtND
+U2NjkzOTA2LDIwMjg3Mjc0ODcsLTE4OTMzODgyMzUsLTg1OTA2
+MTk4XX0=
 -->
