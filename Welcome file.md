@@ -222,7 +222,7 @@ As the official site of the Retrofit says, Retrofit2 is an HTTP client that is e
 ## Preparation
 1. First of all, let's create a new Andriod application by using Andriod Studio. 
 2. Then we need to add the dependcy of our project.
-3. Create two new packages for the network part of our application. one is models, which . And another is network.  And, of course, a good package management is the way to save your life.
+3. Create two new packages for the network part of our application. one is models. And another is network.  And, of course, a good package management is the way to save your life.
 4. As you can see, There are two new-created packages, models and network. And the file structure should as the below.
 
 
@@ -242,6 +242,6 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mzk5NDc1NSwtNDU2NjkzOTA2LDIwMj
+eyJoaXN0b3J5IjpbLTkzMjk4MDY5OCwtNDU2NjkzOTA2LDIwMj
 g3Mjc0ODcsLTE4OTMzODgyMzUsLTg1OTA2MTk4XX0=
 -->
