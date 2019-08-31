@@ -232,6 +232,7 @@ C{models/classes}--by Gson--> A[Retrofit2Client]
 A[Retrofit2Client]  --by Gson--> C{models/classes}
 C{models/classes} --is used by--> D((Other Part))
 ```
+According to the above figure, 
 
 
 
@@ -251,7 +252,7 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY0OTg0OTQsLTkzMjk4MDY5OCwtND
-U2NjkzOTA2LDIwMjg3Mjc0ODcsLTE4OTMzODgyMzUsLTg1OTA2
-MTk4XX0=
+eyJoaXN0b3J5IjpbLTE2NTg5NTkwMywtMTc4NjQ5ODQ5NCwtOT
+MyOTgwNjk4LC00NTY2OTM5MDYsMjAyODcyNzQ4NywtMTg5MzM4
+ODIzNSwtODU5MDYxOThdfQ==
 -->
