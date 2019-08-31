@@ -223,7 +223,7 @@ As the official site of the Retrofit says, Retrofit2 is an HTTP client that is e
 1. First of all, let's create a new Andriod application by using Andriod Studio. 
 2. Then we need to add the dependcy of our project.
 3. Create two new packages for the network part of our application. one is **models**. And another is **network**.  And, of course, a good package management is the way to save your life.
-4. The figure below shows how Retrofit2 works.
+4. The figure below shows how Retrofit2 works in our project.
 ```mermaid
 graph LR
 A[Retrofit2Client] --data in Json--> B(Server)
@@ -232,7 +232,7 @@ C{models/classes}--by Gson--> A[Retrofit2Client]
 A[Retrofit2Client]  --by Gson--> C{models/classes}
 C{models/classes} --is used by--> D((Other Part))
 ```
-According to the above figure, 
+According to the above figure, it shows why we should have those 
 
 
 
@@ -252,7 +252,7 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg5NTkwMywtMTc4NjQ5ODQ5NCwtOT
+eyJoaXN0b3J5IjpbMjA4OTA2MjgyMCwtMTc4NjQ5ODQ5NCwtOT
 MyOTgwNjk4LC00NTY2OTM5MDYsMjAyODcyNzQ4NywtMTg5MzM4
 ODIzNSwtODU5MDYxOThdfQ==
 -->
