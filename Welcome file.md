@@ -232,7 +232,8 @@ C{models/classes}--by Gson--> A[Retrofit2Client]
 A[Retrofit2Client]  --by Gson--> C{models/classes}
 C{models/classes} --is used by--> D((Other Part))
 ```
-According to the above figure, it shows why we should have those 
+According to the above figure, it shows why we should have those two new packages, models and network.
+5. In 
 
 
 
@@ -252,7 +253,7 @@ What you know about  [Django](https://docs.djangoproject.com/en/2.2/) is also ab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTA2MjgyMCwtMTc4NjQ5ODQ5NCwtOT
-MyOTgwNjk4LC00NTY2OTM5MDYsMjAyODcyNzQ4NywtMTg5MzM4
-ODIzNSwtODU5MDYxOThdfQ==
+eyJoaXN0b3J5IjpbOTE0MDIyNTc2LC0xNzg2NDk4NDk0LC05Mz
+I5ODA2OTgsLTQ1NjY5MzkwNiwyMDI4NzI3NDg3LC0xODkzMzg4
+MjM1LC04NTkwNjE5OF19
 -->
